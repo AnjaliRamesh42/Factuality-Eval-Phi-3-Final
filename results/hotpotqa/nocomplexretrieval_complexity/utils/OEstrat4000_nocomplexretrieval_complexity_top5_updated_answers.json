@@ -1,0 +1,18 @@
+{
+    "5ae319555542991a06ce9926": {
+        "generated_answer": "22 years",
+        "gold_truth_answer": "50 years"
+    },
+    "5add1abd5542994ed6169c8b": {
+        "generated_answer": "in 1964",
+        "gold_truth_answer": "accidental death due to a lethal combination of alcohol, a barbiturate, and two tranquilizers."
+    },
+    "5ade0ec15542995b365fabf7": {
+        "generated_answer": "on Thursdays",
+        "gold_truth_answer": "on Wednesdays and Thursdays at 22:00"
+    },
+    "5a8111ba554299260e20a231": {
+        "generated_answer": "Paleo-Indians.",
+        "gold_truth_answer": "Paleo-Indians"
+    }
+}

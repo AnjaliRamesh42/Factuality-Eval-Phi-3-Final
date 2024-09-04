@@ -1,0 +1,3894 @@
+{
+    "5addf6055542990dbb2f7f22": {
+        "generated_answer": "Valentine's Day",
+        "gold_truth_answer": "Garry Marshall"
+    },
+    "5ae18d4d554299234fd0428d": {
+        "generated_answer": "approximately 15 km",
+        "gold_truth_answer": "49000 km2"
+    },
+    "5ac3fd0755429919431738ee": {
+        "generated_answer": "There is no answer to this question because Jon Meacham is not mentioned in any of the provided search results. Jon Meacham is a historian and author, known for writing biographies and histories, not thrillers. He has written several books, including \"Thomas Jefferson: The Art of Power\" and \"The Soul of America: The Battle for Our Nation's Character\". None of his works are mentioned in the provided search results.",
+        "gold_truth_answer": "American Lion"
+    },
+    "5ac3372e5542995ef918c170": {
+        "generated_answer": "69,000",
+        "gold_truth_answer": "9,672"
+    },
+    "5a728e5e5542992359bc30f1": {
+        "generated_answer": "There is no answer in the provided search results that matches the question.",
+        "gold_truth_answer": "Mike Tyson"
+    },
+    "5ac274ab55429963665199c0": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5a8aee2355429950cd6afbfe": {
+        "generated_answer": "Walter Scott",
+        "gold_truth_answer": "Hunter Davies"
+    },
+    "5ac0a02f5542992a796ded3e": {
+        "generated_answer": "None",
+        "gold_truth_answer": "USS Constellation"
+    },
+    "5a748e8655429974ef308c24": {
+        "generated_answer": "Life",
+        "gold_truth_answer": "and launched a major weekly news magazine with a strong emphasis on photojournalism."
+    },
+    "5ac118c65542992a796dede0": {
+        "generated_answer": "Dallas Mavericks",
+        "gold_truth_answer": "Sixers"
+    },
+    "5a8af7fe55429949d91db43a": {
+        "generated_answer": "Newell's Old Boys",
+        "gold_truth_answer": "Newell's Old Boys"
+    },
+    "5ab1e6b25542993be8fa9876": {
+        "generated_answer": "Australia",
+        "gold_truth_answer": "New South Wales, Australia"
+    },
+    "5abce1665542993a06baf991": {
+        "generated_answer": "1973",
+        "gold_truth_answer": "1963"
+    },
+    "5a81d86f5542995ce29dcc65": {
+        "generated_answer": "no",
+        "gold_truth_answer": "yes"
+    },
+    "5abc00535542993f40c73c3f": {
+        "generated_answer": "Howard Brookner",
+        "gold_truth_answer": "Andrew Stanton"
+    },
+    "5a77aa515542997042120acc": {
+        "generated_answer": "Colin Riley McMillan",
+        "gold_truth_answer": "James Forrestal"
+    },
+    "5a8912ed55429951533612a7": {
+        "generated_answer": "British",
+        "gold_truth_answer": "United Kingdom"
+    },
+    "5ac28aaf5542996366519a03": {
+        "generated_answer": "Not mentioned",
+        "gold_truth_answer": "1997"
+    },
+    "5a8621135542994775f6070e": {
+        "generated_answer": "Wide receiver",
+        "gold_truth_answer": "BMX rider"
+    },
+    "5abc82b0554299658360045d": {
+        "generated_answer": "Fawad Alam",
+        "gold_truth_answer": "Fawad Alam"
+    },
+    "5a899b6455429946c8d6e955": {
+        "generated_answer": "None of the actors in Alligator was nominated for an Academy Award.",
+        "gold_truth_answer": "The Godfather Part II"
+    },
+    "5ac0faca5542992a796dedbc": {
+        "generated_answer": "Football Academy",
+        "gold_truth_answer": "Inkheart"
+    },
+    "5a8f24b65542997ba9cb31e7": {
+        "generated_answer": "Cornell University, \"magna cum laude\".",
+        "gold_truth_answer": "Denton High School"
+    },
+    "5ab488ff5542991779162cc9": {
+        "generated_answer": "556 BC",
+        "gold_truth_answer": "535 until 554"
+    },
+    "5a73fd505542993a88ae2edc": {
+        "generated_answer": "Schizopolis",
+        "gold_truth_answer": "Behind the Candelabra"
+    },
+    "5a774d65554299373536022b": {
+        "generated_answer": "Men, women",
+        "gold_truth_answer": "Puvaneswaran Ramasamy"
+    },
+    "5ae663b05542992ae0d16316": {
+        "generated_answer": "Melbourne",
+        "gold_truth_answer": "Melbourne, Australia"
+    },
+    "5a7a23c35542996a35c170f3": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "Synthesis"
+    },
+    "5ac3ae9d5542995ef918c1e8": {
+        "generated_answer": "Barry Mason",
+        "gold_truth_answer": "Des O'Connor"
+    },
+    "5ae3cfea5542992f92d8237a": {
+        "generated_answer": "Mary Elizabeth Winstead",
+        "gold_truth_answer": "Mary Elizabeth Winstead"
+    },
+    "5ab2dace5542992953946882": {
+        "generated_answer": "1924",
+        "gold_truth_answer": "1950"
+    },
+    "5ae51d5c5542992663a4f11d": {
+        "generated_answer": "Varendra region of Bengal.",
+        "gold_truth_answer": "Varendra region of Bengal"
+    },
+    "5ab482b75542990594ba9c3e": {
+        "generated_answer": "Cherokee",
+        "gold_truth_answer": "Southeastern Woodlands"
+    },
+    "5ac2c1cc554299218029db1a": {
+        "generated_answer": "R. Kelly",
+        "gold_truth_answer": "the RIAA"
+    },
+    "5a8dd57b5542995a26add403": {
+        "generated_answer": "Django Django",
+        "gold_truth_answer": "Seven Mary Three"
+    },
+    "5ab973195542996be20204fa": {
+        "generated_answer": "New Balance",
+        "gold_truth_answer": "New Balance"
+    },
+    "5ac23e2155429951e9e684c8": {
+        "generated_answer": "Cher",
+        "gold_truth_answer": "Meryl Streep"
+    },
+    "5aba7c7155429955dce3ee58": {
+        "generated_answer": "approximately $3.4 million",
+        "gold_truth_answer": "about four billion won"
+    },
+    "5a8b17c15542996c9b8d5f98": {
+        "generated_answer": "Australia",
+        "gold_truth_answer": "United Kingdom"
+    },
+    "5adf3b255542993a75d26437": {
+        "generated_answer": "Virginia",
+        "gold_truth_answer": "Virginia"
+    },
+    "5a8029515542992e7d278e07": {
+        "generated_answer": "Kyrgyzstan",
+        "gold_truth_answer": "Kyrgyzstan"
+    },
+    "5a7cc68a554299683c1c6372": {
+        "generated_answer": "Town & Country",
+        "gold_truth_answer": "American Way"
+    },
+    "5abd65da55429924427fcfce": {
+        "generated_answer": "1974",
+        "gold_truth_answer": "1985"
+    },
+    "5adf306c5542992d7e9f92c6": {
+        "generated_answer": "1994",
+        "gold_truth_answer": "2005"
+    },
+    "5adccce85542994d58a2f6d9": {
+        "generated_answer": "Aliya Nurmuhametqyzy Moldagulova",
+        "gold_truth_answer": "Vadim Valentinovich Zagladin"
+    },
+    "5a85e3775542994775f60683": {
+        "generated_answer": "1917",
+        "gold_truth_answer": "1910"
+    },
+    "5a8022755542992097ad2fdc": {
+        "generated_answer": "Gainesville",
+        "gold_truth_answer": "Gainesville"
+    },
+    "5ae4d5125542990ba0bbb168": {
+        "generated_answer": "eight",
+        "gold_truth_answer": "eighth term"
+    },
+    "5ab442915542990594ba9bdb": {
+        "generated_answer": "Document [1](Title: The American Symphony Orchestra)",
+        "gold_truth_answer": "Fantasia"
+    },
+    "5ae22bbb554299234fd04411": {
+        "generated_answer": "Cardinal, Northeast Regional",
+        "gold_truth_answer": "the Fredericksburg Line from Fredericksburg, Virginia, and the Manassas Line"
+    },
+    "5adbd46355429944faac2373": {
+        "generated_answer": "Shama",
+        "gold_truth_answer": "Shama"
+    },
+    "5ae1d5c8554299234fd0431b": {
+        "generated_answer": "Innsbruck",
+        "gold_truth_answer": "Innsbruck"
+    },
+    "5aba7977554299232ef4a2e0": {
+        "generated_answer": "Suffolk",
+        "gold_truth_answer": "Suffolk County"
+    },
+    "5ac00797554299012d1db57b": {
+        "generated_answer": "Ellis Bell",
+        "gold_truth_answer": "Ellis Bell"
+    },
+    "5a883c6b5542994846c1ce51": {
+        "generated_answer": "1965",
+        "gold_truth_answer": "1965"
+    },
+    "5a7af2e255429931da12c999": {
+        "generated_answer": "Boogie Down Productions.",
+        "gold_truth_answer": "Beastie Boys"
+    },
+    "5ab8544355429916710eb03a": {
+        "generated_answer": "Manchester",
+        "gold_truth_answer": "Manchester, in North West England"
+    },
+    "5a8a032655429970aeb70200": {
+        "generated_answer": "1992",
+        "gold_truth_answer": "1964"
+    },
+    "5a89366e55429951533612e5": {
+        "generated_answer": "James Gunn.",
+        "gold_truth_answer": "James Gunn"
+    },
+    "5ae6424955429929b0807b0e": {
+        "generated_answer": "Document [1]",
+        "gold_truth_answer": "November 1994"
+    },
+    "5abafc4a55429966062416c3": {
+        "generated_answer": "2015",
+        "gold_truth_answer": "1998"
+    },
+    "5a8802ac5542997e5c09a58d": {
+        "generated_answer": "Clitheroe",
+        "gold_truth_answer": "Clitheroe, Lancashire"
+    },
+    "5a8c4d015542996e8ac88a58": {
+        "generated_answer": "13 nautical miles",
+        "gold_truth_answer": "855 mi"
+    },
+    "5ac2e57d554299677310264b": {
+        "generated_answer": "Italy",
+        "gold_truth_answer": "Italy"
+    },
+    "5ab60eb2554299637185c65a": {
+        "generated_answer": "227",
+        "gold_truth_answer": "7,580"
+    },
+    "5a7a93e855429941d65f26c5": {
+        "generated_answer": "Billy Bush",
+        "gold_truth_answer": "Billy Bush"
+    },
+    "5abd0de15542996e802b46ca": {
+        "generated_answer": "The 72nd Field Artillery Brigade is part of the First Army, which is the oldest and longest established field army of the United States Army.",
+        "gold_truth_answer": "the oldest"
+    },
+    "5a8635d25542994775f6071a": {
+        "generated_answer": "Korean and English",
+        "gold_truth_answer": "English and Japanese"
+    },
+    "5a8b519b55429950cd6afc9d": {
+        "generated_answer": "Amitabh Bhattacharya",
+        "gold_truth_answer": "Karan Johar"
+    },
+    "5a727bc85542994cef4bc2d2": {
+        "generated_answer": "six months pregnant with their child.",
+        "gold_truth_answer": "Hank Williams, Jr."
+    },
+    "5abcfca15542993a06baf9d9": {
+        "generated_answer": "The American Civil War",
+        "gold_truth_answer": "American Civil War"
+    },
+    "5a84ff0c5542997175ce1f4b": {
+        "generated_answer": "Camille Saint-Sa\u00ebns",
+        "gold_truth_answer": "Romantic"
+    },
+    "5a8e1e5155429917b4a5bd28": {
+        "generated_answer": "They were filmmakers.",
+        "gold_truth_answer": "film director"
+    },
+    "5add65b55542992200553aee": {
+        "generated_answer": "1989",
+        "gold_truth_answer": "1988"
+    },
+    "5ae660ff5542992ae0d1630a": {
+        "generated_answer": "\"The People Who Live Anywhere\", or \"The People Who Live Forever\", or simply \"The Immortals\".",
+        "gold_truth_answer": "\"The People Who Live Anywhere\""
+    },
+    "5a7345f45542994cef4bc4fe": {
+        "generated_answer": "twin",
+        "gold_truth_answer": "twins"
+    },
+    "5abb11785542996cc5e49f89": {
+        "generated_answer": "September 24, 1951",
+        "gold_truth_answer": "10 March 1987"
+    },
+    "5ae52cb65542992663a4f132": {
+        "generated_answer": "The Chengdu J-20 fighter.",
+        "gold_truth_answer": "China International Aviation & Aerospace Exhibition"
+    },
+    "5adea8e755429939a52fe92e": {
+        "generated_answer": "Documentary",
+        "gold_truth_answer": "documentary"
+    },
+    "5a819fc05542990a1d231e22": {
+        "generated_answer": "Potomac Yard",
+        "gold_truth_answer": "National Harbor"
+    },
+    "5a81cba15542990a1d231ec6": {
+        "generated_answer": "William Shakespeare",
+        "gold_truth_answer": "William Shakespeare"
+    },
+    "5a8e20a05542990e94052a61": {
+        "generated_answer": "1965",
+        "gold_truth_answer": "1965"
+    },
+    "5a8e68385542990e94052af6": {
+        "generated_answer": "December 22",
+        "gold_truth_answer": "22 December 1808"
+    },
+    "5ac42ed65542995c82c4ace0": {
+        "generated_answer": "Black Kettle's band",
+        "gold_truth_answer": "Black Kettle"
+    },
+    "5a844f5e554299123d8c21f6": {
+        "generated_answer": "King William IV",
+        "gold_truth_answer": "King William IV"
+    },
+    "5add1f505542990d50227df0": {
+        "generated_answer": "none",
+        "gold_truth_answer": "18,910"
+    },
+    "5a8c4612554299240d9c2102": {
+        "generated_answer": "Schleigho",
+        "gold_truth_answer": "A Tribe Called Quest"
+    },
+    "5a8ce09b554299585d9e374e": {
+        "generated_answer": "Most.",
+        "gold_truth_answer": "52"
+    },
+    "5a83570f5542990548d0b1db": {
+        "generated_answer": "Pakistan",
+        "gold_truth_answer": "Pakistani cricket team"
+    },
+    "5ae7821b5542997ec2727678": {
+        "generated_answer": "November 22, 1963",
+        "gold_truth_answer": "1993"
+    },
+    "5a78e585554299029c4b5ecf": {
+        "generated_answer": "Girls' Generation",
+        "gold_truth_answer": "f"
+    },
+    "5a7ba353554299294a54aa48": {
+        "generated_answer": "Not found in provided search results.",
+        "gold_truth_answer": "Black Tom explosion"
+    },
+    "5ab2e692554299166977412a": {
+        "generated_answer": "A Momentary Lapse of Reason Tour.",
+        "gold_truth_answer": "\"A Momentary Lapse of Reason Tour\""
+    },
+    "5a81de3a55429926c1cdada8": {
+        "generated_answer": "Shape.",
+        "gold_truth_answer": "appearance"
+    },
+    "5a7bbf36554299294a54aaaf": {
+        "generated_answer": "The Ghost and the Darkness",
+        "gold_truth_answer": "The Ghost and the Darkness"
+    },
+    "5a83594f5542996488c2e421": {
+        "generated_answer": "The Long, Long Summer",
+        "gold_truth_answer": "The Best Years of Our Lives"
+    },
+    "5a7f47df5542994857a766dc": {
+        "generated_answer": "A Christmas Gift for You from Philles Records.",
+        "gold_truth_answer": "A Christmas Gift for You"
+    },
+    "5abadc735542996cc5e49eb2": {
+        "generated_answer": "1962",
+        "gold_truth_answer": "1962"
+    },
+    "5add69255542992200553b01": {
+        "generated_answer": "the American Civil War",
+        "gold_truth_answer": "the Continental Army"
+    },
+    "5a76ee895542993569682c92": {
+        "generated_answer": "July 16, 2013",
+        "gold_truth_answer": "July 16, 2013"
+    },
+    "5ab87cd655429934fafe6df9": {
+        "generated_answer": "1895",
+        "gold_truth_answer": "1901"
+    },
+    "5a839a3c5542992ef85e2327": {
+        "generated_answer": "Humphrey Bogart",
+        "gold_truth_answer": "Humphrey Bogart"
+    },
+    "5a863fb955429960ec39b658": {
+        "generated_answer": "Idol 2005",
+        "gold_truth_answer": "Talang"
+    },
+    "5ae7eb425542994a481bbe21": {
+        "generated_answer": "Billingborough",
+        "gold_truth_answer": "Billingborough"
+    },
+    "5ae0aa9955429945ae9593fd": {
+        "generated_answer": "American",
+        "gold_truth_answer": "American"
+    },
+    "5a8062b4554299485f5985df": {
+        "generated_answer": "Shirley Temple.",
+        "gold_truth_answer": "Angelina Jolie"
+    },
+    "5a81e2c5554299676cceb137": {
+        "generated_answer": "Universal Studios Japan",
+        "gold_truth_answer": "Courthouse Square"
+    },
+    "5a73d026554299623ed4ac61": {
+        "generated_answer": "Tyson Gay",
+        "gold_truth_answer": "Tyson Gay"
+    },
+    "5a88451655429938390d3f12": {
+        "generated_answer": "Rocky",
+        "gold_truth_answer": "\"Creed\""
+    },
+    "5ab1f1e4554299449642c81f": {
+        "generated_answer": "Bandit",
+        "gold_truth_answer": "Colorado Adventure"
+    },
+    "5a86eed255429960ec39b6dc": {
+        "generated_answer": "The Bee Gees.",
+        "gold_truth_answer": "Bee Gees"
+    },
+    "5ae3eaad5542995dadf2424e": {
+        "generated_answer": "Revenge of the Nerds",
+        "gold_truth_answer": "Revenge of the Nerds"
+    },
+    "5a7609b15542994ccc918695": {
+        "generated_answer": "Dan Lavery",
+        "gold_truth_answer": "Daniel Adair"
+    },
+    "5ab6bdbb5542995eadef0091": {
+        "generated_answer": "Solodyn",
+        "gold_truth_answer": "acetylsalicylic acid"
+    },
+    "5a72fe195542992359bc31f6": {
+        "generated_answer": "Stephen Malkmus",
+        "gold_truth_answer": "Stephen Joseph Malkmus"
+    },
+    "5ae322d555429928c4239628": {
+        "generated_answer": "Ellaline Terriss",
+        "gold_truth_answer": "Seymour Hicks"
+    },
+    "5a83a65e5542990548d0b20c": {
+        "generated_answer": "NY\u00a0297",
+        "gold_truth_answer": "New York Route 443"
+    },
+    "5a7d7fad5542995f4f402286": {
+        "generated_answer": "National Council on Indian Opportunity",
+        "gold_truth_answer": "National Council on Indian Opportunity"
+    },
+    "5a79635155429907847277fb": {
+        "generated_answer": "341 miles",
+        "gold_truth_answer": "341 miles"
+    },
+    "5a836af95542993344746011": {
+        "generated_answer": "peaked at #1 on Billboard's \"Top New Age Albums\" chart.",
+        "gold_truth_answer": "national record at 14"
+    },
+    "5a8db916554299441c6ba057": {
+        "generated_answer": "Hindi",
+        "gold_truth_answer": "Hindi"
+    },
+    "5ac28fcc5542992f1f2b390b": {
+        "generated_answer": "Panathenaic Games",
+        "gold_truth_answer": "Panathenaic Games"
+    },
+    "5ae120a8554299422ee99608": {
+        "generated_answer": "Rage Against the Machine",
+        "gold_truth_answer": "American rap metal band"
+    },
+    "5abc41075542996583600430": {
+        "generated_answer": "None",
+        "gold_truth_answer": "Man Down"
+    },
+    "5a8929c4554299669944a4d8": {
+        "generated_answer": "Connecticut River.",
+        "gold_truth_answer": "southward"
+    },
+    "5a9058e655429916514e747e": {
+        "generated_answer": "Humberside",
+        "gold_truth_answer": "former English county of Humberside"
+    },
+    "5adfd6d955429906c02daa62": {
+        "generated_answer": "Dave Mustaine",
+        "gold_truth_answer": "David Scott Mustaine"
+    },
+    "5ae5e44f55429929b08079f6": {
+        "generated_answer": "Margaret Beaufort.",
+        "gold_truth_answer": "Lady Margaret Beaufort"
+    },
+    "5ac286f955429963665199fa": {
+        "generated_answer": "No",
+        "gold_truth_answer": "no"
+    },
+    "5a7399ad5542992d56e7e371": {
+        "generated_answer": "Home Island, Christmas Island, and Sabah.",
+        "gold_truth_answer": "the Texas coast"
+    },
+    "5ae362af5542990afbd1e129": {
+        "generated_answer": "Charlene de Carvalho-Heineken",
+        "gold_truth_answer": "Charlene de Carvalho-Heineken"
+    },
+    "5ac2a59955429967731025d5": {
+        "generated_answer": "July 16, 1966",
+        "gold_truth_answer": "January 30, 1973"
+    },
+    "5ae589865542993aec5ec1b2": {
+        "generated_answer": "She did not gain fame from working with Susan Marshall in any season of American Idol.",
+        "gold_truth_answer": "fifth season"
+    },
+    "5adebebb55429939a52fe96e": {
+        "generated_answer": "Corrosion of Conformity",
+        "gold_truth_answer": "Corrosion of Conformity"
+    },
+    "5a7a315f5542990783324eb3": {
+        "generated_answer": "Swiss and German",
+        "gold_truth_answer": "Dieter Meier and Boris Blank"
+    },
+    "5ab6d3705542995eadef00ab": {
+        "generated_answer": "BankUnited Center in Coral Gables, Florida.",
+        "gold_truth_answer": "U.S. Bank Stadium"
+    },
+    "5a89daea5542992e4fca83f0": {
+        "generated_answer": "Chamber opera",
+        "gold_truth_answer": "libretto"
+    },
+    "5abbdc9a554299642a094b68": {
+        "generated_answer": "Bourne Town Football Club",
+        "gold_truth_answer": "Bourne Town Football Club"
+    },
+    "5a72a6645542991f9a20c555": {
+        "generated_answer": "30 Hudson Yards",
+        "gold_truth_answer": "30 Hudson Yards"
+    },
+    "5ae240bd5542996483e64943": {
+        "generated_answer": "Shirley Manson",
+        "gold_truth_answer": "Shirley Ann Manson"
+    },
+    "5ab8974455429916710eb095": {
+        "generated_answer": "Patrick Carney",
+        "gold_truth_answer": "Red Hot Chili Peppers"
+    },
+    "5a7a192f5542990783324e55": {
+        "generated_answer": "17",
+        "gold_truth_answer": "Four"
+    },
+    "5a8bc0535542995e66a474f7": {
+        "generated_answer": "Siles-Hesse",
+        "gold_truth_answer": "Dortmund, North Rhine-Westphalia"
+    },
+    "5a8c7d11554299240d9c218f": {
+        "generated_answer": "There is no search result that matches the question. Therefore, the answer is:\n\nNone",
+        "gold_truth_answer": "Shadow Man"
+    },
+    "5ae81cc855429952e35eaa26": {
+        "generated_answer": "Julia Roberts",
+        "gold_truth_answer": "Julia Roberts"
+    },
+    "5ae769c55542997b22f6a73e": {
+        "generated_answer": "December 14, 2018",
+        "gold_truth_answer": "December 14, 2018"
+    },
+    "5aba869855429901930fa802": {
+        "generated_answer": "New York City",
+        "gold_truth_answer": "New York City"
+    },
+    "5a8783e25542996e4f30881c": {
+        "generated_answer": "Australia",
+        "gold_truth_answer": "the United Kingdom"
+    },
+    "5abb17e75542996cc5e49fa2": {
+        "generated_answer": "Tehran",
+        "gold_truth_answer": "Tehran, Iran"
+    },
+    "5ab238ce55429970612095c3": {
+        "generated_answer": "None of the searched results mention an artist who recorded \"Roads or The Roads\" by Anatoly Novikov born on October 16, 1962.",
+        "gold_truth_answer": "Dmitri Hvorostovsky"
+    },
+    "5abb805f5542992ccd8e7f4d": {
+        "generated_answer": "Wabash and Erie Canal",
+        "gold_truth_answer": "Cumberland and Oxford Canal"
+    },
+    "5ac0e0d85542996f0d89cc30": {
+        "generated_answer": "There is no answer for this question as Soloman Grundy is not mentioned in the provided search results.",
+        "gold_truth_answer": "third"
+    },
+    "5a7eaf5b5542994959419a4e": {
+        "generated_answer": "Catholic",
+        "gold_truth_answer": "Cathedral of the Holy Spirit"
+    },
+    "5ab3f335554299233955000a": {
+        "generated_answer": "1980",
+        "gold_truth_answer": "1980"
+    },
+    "5aba9a91554299232ef4a360": {
+        "generated_answer": "2006",
+        "gold_truth_answer": "2000"
+    },
+    "5ae051f455429942ec259c6e": {
+        "generated_answer": "Arkansas",
+        "gold_truth_answer": "Arkansas"
+    },
+    "5ade62b855429939a52fe894": {
+        "generated_answer": "Macy's",
+        "gold_truth_answer": "R. H. Macy & Co."
+    },
+    "5a8b5a2b55429971feec46f2": {
+        "generated_answer": "Moscow Conservatory",
+        "gold_truth_answer": "Moscow Conservatory"
+    },
+    "5abe044d5542991f661060a7": {
+        "generated_answer": "Trowelblazers",
+        "gold_truth_answer": "NAACP"
+    },
+    "5ae07d9855429945ae959379": {
+        "generated_answer": "Madagascar",
+        "gold_truth_answer": "Ivory Coast"
+    },
+    "5ade7feb5542992fa25da799": {
+        "generated_answer": "The Little Fuji of Aki.",
+        "gold_truth_answer": "Wake Atoll"
+    },
+    "5ae7534b5542997b22f6a6d7": {
+        "generated_answer": "Diamond Jubilee",
+        "gold_truth_answer": "60th"
+    },
+    "5ab6bcda55429953192ad36b": {
+        "generated_answer": "None",
+        "gold_truth_answer": "Marijuana"
+    },
+    "5a7f06f455429930675135f8": {
+        "generated_answer": "Peter Johannes Gertrudis Winnen",
+        "gold_truth_answer": "Phil Taylor"
+    },
+    "5a8fafb15542992414482b3f": {
+        "generated_answer": "The Surrealist movement.",
+        "gold_truth_answer": "transcendentalist"
+    },
+    "5a79da5b5542994bb94570ee": {
+        "generated_answer": "1707",
+        "gold_truth_answer": "10 January 1778"
+    },
+    "5a8b4a305542995d1e6f134f": {
+        "generated_answer": "Eddie Steeples",
+        "gold_truth_answer": "Eddie Steeples"
+    },
+    "5a7932de55429907847277e6": {
+        "generated_answer": "\"Adelaide\"",
+        "gold_truth_answer": "Desiderata"
+    },
+    "5a7774535542997042120a54": {
+        "generated_answer": "Fyodor Bondarchuk",
+        "gold_truth_answer": "Fyodor Sergeyevich Bondarchuk"
+    },
+    "5ae5f2265542996de7b71a77": {
+        "generated_answer": "Stovaine.",
+        "gold_truth_answer": "halothane"
+    },
+    "5a7725b35542993569682cfe": {
+        "generated_answer": "Allen Iverson",
+        "gold_truth_answer": "Allen Iverson"
+    },
+    "5ae18cff5542997b2ef7d1f9": {
+        "generated_answer": "Ces\u00e1ria \u00c9vora",
+        "gold_truth_answer": "\"Skip to the End, Hello\""
+    },
+    "5abb1d865542996cc5e49fb1": {
+        "generated_answer": "none",
+        "gold_truth_answer": "Werner Thomas"
+    },
+    "5abd0d635542992ac4f381b8": {
+        "generated_answer": "Eighteen",
+        "gold_truth_answer": "29"
+    },
+    "5a74e88155429916b0164239": {
+        "generated_answer": "The answer is \"I couldn't find the answer in the provided search results as there is no mention of the music video director for the song 'Back to December'.\"",
+        "gold_truth_answer": "Yoann Lemoine"
+    },
+    "5a7769a15542993569682d8e": {
+        "generated_answer": "Waltzing Matilda",
+        "gold_truth_answer": "Waltzing Matilda"
+    },
+    "5a8b41b655429949d91db511": {
+        "generated_answer": "The Dave Clark Five",
+        "gold_truth_answer": "Manfred Mann"
+    },
+    "5adde2705542997dc7907087": {
+        "generated_answer": "Sevens",
+        "gold_truth_answer": "No Fences"
+    },
+    "5ae0f2ad5542997b2ef7d09d": {
+        "generated_answer": "Alaska",
+        "gold_truth_answer": "Alaska"
+    },
+    "5a803b66554299485f598594": {
+        "generated_answer": "Dokken",
+        "gold_truth_answer": "Dokken"
+    },
+    "5ac2534c55429951e9e6854a": {
+        "generated_answer": "Stephen Chbosky",
+        "gold_truth_answer": "Stephen Chbosky"
+    },
+    "5a86fb865542991e771816a9": {
+        "generated_answer": "Sports Illustrated for Women",
+        "gold_truth_answer": "Sports Illustrated for Women"
+    },
+    "5ab27391554299340b5254d1": {
+        "generated_answer": "The Colorado River.",
+        "gold_truth_answer": "1450 mi"
+    },
+    "5ab506b655429942dd415fd3": {
+        "generated_answer": "Nassau",
+        "gold_truth_answer": "Nassau County"
+    },
+    "5a75e577554299109176e5bd": {
+        "generated_answer": "Halsey",
+        "gold_truth_answer": "Halsey"
+    },
+    "5ab590a9554299488d4d99dd": {
+        "generated_answer": "Alexander II",
+        "gold_truth_answer": "Edward I of England"
+    },
+    "5a77891c55429967ab1051f5": {
+        "generated_answer": "Bitterroot",
+        "gold_truth_answer": "The Bitterroot Range"
+    },
+    "5ac1bb065542996366519900": {
+        "generated_answer": "Bruno Tattaglia",
+        "gold_truth_answer": "Sonny Corleone"
+    },
+    "5ae00bb655429942ec259c07": {
+        "generated_answer": "Tony Alva, a pioneer of vertical skateboarding.",
+        "gold_truth_answer": "vertical skateboarding"
+    },
+    "5ac1334b55429964131be184": {
+        "generated_answer": "Diana Gabaldon",
+        "gold_truth_answer": "Diana Gabaldon"
+    },
+    "5ac1a85d55429963665198d1": {
+        "generated_answer": "John Boyega",
+        "gold_truth_answer": "John Boyega"
+    },
+    "5a8e345e5542995085b373d7": {
+        "generated_answer": "Churchill Downs Incorporated",
+        "gold_truth_answer": "Churchill Downs Incorporated"
+    },
+    "5ae274a55542992decbdcd0a": {
+        "generated_answer": "1969/70",
+        "gold_truth_answer": "2013"
+    },
+    "5a78cb47554299029c4b5e97": {
+        "generated_answer": "Rock Hudson",
+        "gold_truth_answer": "Jayne Mansfield"
+    },
+    "5ae3294155429928c423963d": {
+        "generated_answer": "Thomas De Quincey",
+        "gold_truth_answer": "Thomas Penson De Quincey"
+    },
+    "5ae0ab9f55429945ae959409": {
+        "generated_answer": "1928",
+        "gold_truth_answer": "1928"
+    },
+    "5ab9b718554299743d22ebc2": {
+        "generated_answer": "\"Homer's Barbershop Quartet\"",
+        "gold_truth_answer": "When You Dish Upon a Star"
+    },
+    "5abdede155429976d4830a27": {
+        "generated_answer": "Among the Believers",
+        "gold_truth_answer": "The Armor of Light"
+    },
+    "5a7a21455542996a35c170df": {
+        "generated_answer": "1948",
+        "gold_truth_answer": "1948"
+    },
+    "5ab61465554299710c8d1e61": {
+        "generated_answer": "Comics Buyer's Guide",
+        "gold_truth_answer": "Comics Buyer's Guide"
+    },
+    "5ac30c675542995ef918c0d5": {
+        "generated_answer": "California",
+        "gold_truth_answer": "California"
+    },
+    "5a807909554299485f598601": {
+        "generated_answer": "Hamilton",
+        "gold_truth_answer": "Glasgow"
+    },
+    "5ae4daa25542990ba0bbb179": {
+        "generated_answer": "Women Management",
+        "gold_truth_answer": "Discwoman"
+    },
+    "5a901f0b5542995651fb50c7": {
+        "generated_answer": "Jack Wild",
+        "gold_truth_answer": "Jack Wild"
+    },
+    "5a7664395542992db9473792": {
+        "generated_answer": "Matthew Rhys",
+        "gold_truth_answer": "Matthew Rhys"
+    },
+    "5a79f4d25542990198eaf01c": {
+        "generated_answer": "Bally\u2019s Hotel",
+        "gold_truth_answer": "MGM Grand Hotel and Casino"
+    },
+    "5ab2a05d554299340b52552f": {
+        "generated_answer": "1995",
+        "gold_truth_answer": "2011"
+    },
+    "5adf6c525542995ec70e8ffd": {
+        "generated_answer": "AaB.",
+        "gold_truth_answer": "AaB Fodbold"
+    },
+    "5a7cb1ed5542996dd594b98d": {
+        "generated_answer": "There is no mention of Rich Christiano or Curtis Bernhardt in the provided search results, so it is impossible to determine which one was born earlier.",
+        "gold_truth_answer": "Curtis Bernhardt"
+    },
+    "5a90234055429916514e7429": {
+        "generated_answer": "Hollywood.",
+        "gold_truth_answer": "Lieutenant JG Saavik"
+    },
+    "5a863a4f5542991e771815ca": {
+        "generated_answer": "South America",
+        "gold_truth_answer": "North America"
+    },
+    "5addcade5542997dc7907030": {
+        "generated_answer": "5",
+        "gold_truth_answer": "seven-member"
+    },
+    "5ae7d4ca554299540e5a5658": {
+        "generated_answer": "February 14, 1884",
+        "gold_truth_answer": "1958"
+    },
+    "5a8b0ec255429949d91db491": {
+        "generated_answer": "music producer",
+        "gold_truth_answer": "director"
+    },
+    "5a73874555429905862fe053": {
+        "generated_answer": "Not mentioned",
+        "gold_truth_answer": "Dujiangyan"
+    },
+    "5a8b05da55429971feec4615": {
+        "generated_answer": "Tutu.",
+        "gold_truth_answer": "tutu"
+    },
+    "5adfb9f055429942ec259b19": {
+        "generated_answer": "Texas A&M Aggies",
+        "gold_truth_answer": "Oklahoma Sooners"
+    },
+    "5ae4c0c155429913cc2044f5": {
+        "generated_answer": "According to Document [1] and Document [2], the genus Colquhounia contains about six species. There is no information provided about the genus Prostanthera, so it is unclear how many species it contains.",
+        "gold_truth_answer": "Prostanthera"
+    },
+    "5a831f7555429954d2e2ec26": {
+        "generated_answer": "Document [5]",
+        "gold_truth_answer": "Death Faces"
+    },
+    "5a81285f55429903bc27b936": {
+        "generated_answer": "film director",
+        "gold_truth_answer": "film director"
+    },
+    "5ab5e2075542992aa134a3c3": {
+        "generated_answer": "Bitcoin",
+        "gold_truth_answer": "bitcoin"
+    },
+    "5ab2fde355429976abd1bbfd": {
+        "generated_answer": "crime film",
+        "gold_truth_answer": "comedy-drama"
+    },
+    "5a88ba77554299206df2b34f": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5a7a51f555429941d65f25ad": {
+        "generated_answer": "The Bob Weir Band",
+        "gold_truth_answer": "Grateful Dead"
+    },
+    "5ab272f2554299340b5254cf": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5a88b1b1554299206df2b330": {
+        "generated_answer": "Male",
+        "gold_truth_answer": "He"
+    },
+    "5a89e1325542992e4fca842b": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5ac3e3895542995c82c4ac87": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5a814f6455429938b6142331": {
+        "generated_answer": "Journalist",
+        "gold_truth_answer": "Poet"
+    },
+    "5a7bb412554299042af8f7a0": {
+        "generated_answer": "29 April 1944",
+        "gold_truth_answer": "16 April 1940"
+    },
+    "5abf04ae5542993fe9a41dbf": {
+        "generated_answer": "Choral song accompa",
+        "gold_truth_answer": "played"
+    },
+    "5aba9a4755429955dce3ee9f": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5ade29c05542997c77aded89": {
+        "generated_answer": "Tegan and Sara.",
+        "gold_truth_answer": "The Why Store"
+    },
+    "5ae2ecfd5542991a06ce9905": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5abbfc2755429931dba14608": {
+        "generated_answer": "They are both actors.",
+        "gold_truth_answer": "screenwriter and film director"
+    },
+    "5a778ab95542995d831811ad": {
+        "generated_answer": "There is no mention of the founding of the sports league that Mirtha Marrero played in.",
+        "gold_truth_answer": "Philip K. Wrigley"
+    },
+    "5a8431b55542996488c2e50a": {
+        "generated_answer": "Columbus",
+        "gold_truth_answer": "Columbus"
+    },
+    "5abac4375542996606241603": {
+        "generated_answer": "arrowverse",
+        "gold_truth_answer": "Arrowverse"
+    },
+    "5ae1d646554299234fd04320": {
+        "generated_answer": "Manvel Gamburyan",
+        "gold_truth_answer": "Manvel \"Manny\" Gamburyan"
+    },
+    "5ab7296d5542992aa3b8c7b5": {
+        "generated_answer": "Dallas",
+        "gold_truth_answer": "Dallas"
+    },
+    "5ae5b60d5542990ba0bbb2bf": {
+        "generated_answer": "Louis Negin is a Canadian actor, recently best known for his roles in the films of Guy Maddin.",
+        "gold_truth_answer": "Guy Maddin"
+    },
+    "5a73ccbb55429908901be33a": {
+        "generated_answer": "ESA",
+        "gold_truth_answer": "European Space Agency"
+    },
+    "5a8604f155429960ec39b603": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5ab2af90554299340b525546": {
+        "generated_answer": "Mackenzie",
+        "gold_truth_answer": "State Route 191"
+    },
+    "5a7cbf6355429909bec767f1": {
+        "generated_answer": "California",
+        "gold_truth_answer": "California"
+    },
+    "5ab670b35542995eadeeffd6": {
+        "generated_answer": "Bad Teacher",
+        "gold_truth_answer": "\"Crazy in Alabama\""
+    },
+    "5ade18e755429975fa854e3d": {
+        "generated_answer": "Blackpool Zoo.",
+        "gold_truth_answer": "Parques Reunidos"
+    },
+    "5abfa4bb5542993fe9a41e29": {
+        "generated_answer": "Welsh",
+        "gold_truth_answer": "British"
+    },
+    "5a7b43735542992d025e67cb": {
+        "generated_answer": "video game",
+        "gold_truth_answer": "video game"
+    },
+    "5a8673e05542994775f6076c": {
+        "generated_answer": "Lucia di Lammermoor",
+        "gold_truth_answer": "Lucia di Lammermoor"
+    },
+    "5a72ba165542992359bc318a": {
+        "generated_answer": "The Baidu Company",
+        "gold_truth_answer": "Wikimedia Foundation"
+    },
+    "5abf0c445542997719eab63c": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5a8133945542995ce29dcbdc": {
+        "generated_answer": "no",
+        "gold_truth_answer": "yes"
+    },
+    "5ae113b955429920d52342c1": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5a84dda85542991dd0999e03": {
+        "generated_answer": "British",
+        "gold_truth_answer": "English"
+    },
+    "5a81641b5542995ce29dcbf5": {
+        "generated_answer": "No information is provided in the search results about the school John Andrew Rice founded, so it cannot be determined what year the school closed.",
+        "gold_truth_answer": "1957"
+    },
+    "5a8e2e0e5542995085b373c6": {
+        "generated_answer": "Justin Time",
+        "gold_truth_answer": "RCA Records"
+    },
+    "5a77483655429972597f14e7": {
+        "generated_answer": "Gene Okerlund and Renee Young",
+        "gold_truth_answer": "Renee Young"
+    },
+    "5ae136de55429901ffe4adf6": {
+        "generated_answer": "Stas Namin",
+        "gold_truth_answer": "The Flowers"
+    },
+    "5a838ca85542992ef85e22f4": {
+        "generated_answer": "Gaura",
+        "gold_truth_answer": "Gaura"
+    },
+    "5add885f5542995b365fab3f": {
+        "generated_answer": "film director",
+        "gold_truth_answer": "filmmaker"
+    },
+    "5abb2e075542996cc5e49fcf": {
+        "generated_answer": "Australia, Asia, Africa, Thailand, Nepal, Bhutan, Bangladesh, China",
+        "gold_truth_answer": "Asia, Africa, and Australia"
+    },
+    "5ab6376355429953192ad2a4": {
+        "generated_answer": "Clint Eastwood",
+        "gold_truth_answer": "Clint Eastwood"
+    },
+    "5ae622925542996de7b71b6e": {
+        "generated_answer": "Prince Harald of Denmark",
+        "gold_truth_answer": "Christian X"
+    },
+    "5a8119df55429938b61422c3": {
+        "generated_answer": "Three",
+        "gold_truth_answer": "Svetlana Aleksandrovna Kuznetsova"
+    },
+    "5a8124bf55429926c1cdacf4": {
+        "generated_answer": "Commissioner of Indian Affairs",
+        "gold_truth_answer": "regulating the fur trade and dealing with the Iroquois"
+    },
+    "5abbef0a554299114383a0a3": {
+        "generated_answer": "Sugar Ray Leonard, Michael Spinks, and Leon Spinks.",
+        "gold_truth_answer": "Leon Spinks"
+    },
+    "5ade4aee5542992fa25da731": {
+        "generated_answer": "John Zorn and Fred Frith",
+        "gold_truth_answer": "Johnny Mathis"
+    },
+    "5a746ee355429974ef308bfb": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "Sam Claflin"
+    },
+    "5ae4a8235542996836b02cf7": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5a7465d755429929fddd840a": {
+        "generated_answer": "None",
+        "gold_truth_answer": "Bally's Las Vegas"
+    },
+    "5ac10ba85542996f0d89cc60": {
+        "generated_answer": "Documentary",
+        "gold_truth_answer": "documentary"
+    },
+    "5ae256435542992decbdccc3": {
+        "generated_answer": "1682",
+        "gold_truth_answer": "1689"
+    },
+    "5adce61a5542994ed6169c19": {
+        "generated_answer": "Canada",
+        "gold_truth_answer": "Canada"
+    },
+    "5a8ce524554299585d9e375a": {
+        "generated_answer": "Taylor Swift",
+        "gold_truth_answer": "Taylor Swift"
+    },
+    "5a90d25655429916514e7585": {
+        "generated_answer": "Martin Luther King III",
+        "gold_truth_answer": "Dexter"
+    },
+    "5a89fb445542992e4fca84c4": {
+        "generated_answer": "band",
+        "gold_truth_answer": "band"
+    },
+    "5ae7c3735542993210983f3c": {
+        "generated_answer": "Quarterback.",
+        "gold_truth_answer": "quarterback"
+    },
+    "5adf0fda5542995ec70e8f61": {
+        "generated_answer": "best-seller",
+        "gold_truth_answer": "2012 CILIP Carnegie Medal"
+    },
+    "5a790c5d554299029c4b5ee9": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "August 17, 1965"
+    },
+    "5ab1e8345542997061209592": {
+        "generated_answer": "New Waltham and Humberton are located in the city of Hull.",
+        "gold_truth_answer": "North East Lincolnshire, England"
+    },
+    "5a8347b05542996488c2e3f5": {
+        "generated_answer": "United States",
+        "gold_truth_answer": "Bergen County"
+    },
+    "5a78b3f7554299148911f94c": {
+        "generated_answer": "actress and singer",
+        "gold_truth_answer": "former model"
+    },
+    "5ae1cab7554299492dc91b8a": {
+        "generated_answer": "American",
+        "gold_truth_answer": "American"
+    },
+    "5a8e0a9d5542995085b373a8": {
+        "generated_answer": "Caroline Dinenage",
+        "gold_truth_answer": "North East Somerset"
+    },
+    "5a74ee175542996c70cfae41": {
+        "generated_answer": "Naga Chaitanya",
+        "gold_truth_answer": "Naga Chaitanya"
+    },
+    "5a7a37b55542990198eaf0ed": {
+        "generated_answer": "1995",
+        "gold_truth_answer": "2015"
+    },
+    "5a7aa7ee55429931da12c94f": {
+        "generated_answer": "oyster bars",
+        "gold_truth_answer": "salt-water bivalve"
+    },
+    "5a835acb5542993344746006": {
+        "generated_answer": "Freddy vs. Jason",
+        "gold_truth_answer": "\"Cape Fear\""
+    },
+    "5adfb270554299025d62a33e": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5ab82ea55542990e739ec85e": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5a8558475542997175ce1fb8": {
+        "generated_answer": "Jazeera Airways",
+        "gold_truth_answer": "Jazeera Airways"
+    },
+    "5a890d4d554299515336127f": {
+        "generated_answer": "Tiburzio Spannocchi",
+        "gold_truth_answer": "Tiburzio Spannocchi"
+    },
+    "5a7e4b0d554299495941998d": {
+        "generated_answer": "Anton\u00edn Dvo\u0159\u00e1k",
+        "gold_truth_answer": "Bed\u0159ich Smetana"
+    },
+    "5ade8be35542992fa25da7bf": {
+        "generated_answer": "Two, Four",
+        "gold_truth_answer": "three"
+    },
+    "5ac456c7554299076e296d9a": {
+        "generated_answer": "There is no relevant information provided in the documents to answer this question.",
+        "gold_truth_answer": "2,423,912"
+    },
+    "5a7cc6cb55429909bec767ff": {
+        "generated_answer": "Sports",
+        "gold_truth_answer": "baseball-themed"
+    },
+    "5a8fae775542992414482b3b": {
+        "generated_answer": "No record found.",
+        "gold_truth_answer": "Notre Dame High School"
+    },
+    "5ab8788b55429934fafe6dea": {
+        "generated_answer": "McLaren",
+        "gold_truth_answer": "Surrey, England"
+    },
+    "5ab541cd554299637185c542": {
+        "generated_answer": "landscapes",
+        "gold_truth_answer": "colour"
+    },
+    "5adfa8735542995534e8c831": {
+        "generated_answer": "The Appalachian Mountains.",
+        "gold_truth_answer": "The Appalachian Mountains"
+    },
+    "5ab2dd4e554299194fa93553": {
+        "generated_answer": "bird",
+        "gold_truth_answer": "Mimus polyglottos"
+    },
+    "5ab99152554299753720f836": {
+        "generated_answer": "Washington",
+        "gold_truth_answer": "Washington"
+    },
+    "5aba92da55429901930fa840": {
+        "generated_answer": "Document [5]",
+        "gold_truth_answer": "2007"
+    },
+    "5a7331b95542994cef4bc4a6": {
+        "generated_answer": "It is not mentioned that the two buildings mentioned, Time Warner Center and the Empire State Building, are of the same height or one is taller than the other.",
+        "gold_truth_answer": "Empire State Building"
+    },
+    "5ae7ad11554299540e5a5639": {
+        "generated_answer": "a promise that the President would work for his company, Stan Lee Media, after his presidential term was over.",
+        "gold_truth_answer": "Gala Hollywood Farewell Salute to President Clinton"
+    },
+    "5ae3f0c85542995ad6573cb1": {
+        "generated_answer": "October 21, 2016",
+        "gold_truth_answer": "October 21, 2016"
+    },
+    "5ae225aa554299234fd043f4": {
+        "generated_answer": "Gangnam",
+        "gold_truth_answer": "Gangnam district"
+    },
+    "5a7ba5d3554299294a54aa58": {
+        "generated_answer": "De Grey River and the Timor Sea.",
+        "gold_truth_answer": "the Indian Ocean"
+    },
+    "5abb25985542996cc5e49fc3": {
+        "generated_answer": "M\u00f6venpick Hotels & Resorts",
+        "gold_truth_answer": "over 80"
+    },
+    "5ae48e0d5542995ad6573d7e": {
+        "generated_answer": "19 September 1970",
+        "gold_truth_answer": "24 May 1966"
+    },
+    "5ae322b75542994393b9e622": {
+        "generated_answer": "Pacific Place",
+        "gold_truth_answer": "Pacific Place"
+    },
+    "5a7294025542992359bc3115": {
+        "generated_answer": "Based on the provided search results, the correct answer is:\n\nBoggabilla",
+        "gold_truth_answer": "Mehi River"
+    },
+    "5a7622945542992d0ec06029": {
+        "generated_answer": "Disturbia",
+        "gold_truth_answer": "Demonic"
+    },
+    "5a81a8fe55429903bc27b997": {
+        "generated_answer": "Not provided.",
+        "gold_truth_answer": "September 10, 1958"
+    },
+    "5adcbcad5542994d58a2f6b7": {
+        "generated_answer": "Nate",
+        "gold_truth_answer": "Read"
+    },
+    "5ac3ad7f5542995ef918c1de": {
+        "generated_answer": "Bergen",
+        "gold_truth_answer": "Bergen"
+    },
+    "5ae5d7455542996de7b71a2f": {
+        "generated_answer": "\"Heart of Gold\"",
+        "gold_truth_answer": "Heart of Gold"
+    },
+    "5ade450b5542997c77adedc5": {
+        "generated_answer": "Boston, Providence, Hartford, New York City, Philadelphia, Wilmington, Baltimore, Washington, D.C.",
+        "gold_truth_answer": "Boston, Providence, Hartford, New York City, Philadelphia, Wilmington, Baltimore, and Washington, D.C."
+    },
+    "5a8e46755542990e94052aaa": {
+        "generated_answer": "Low-angle Mansard roof and gambrel roof",
+        "gold_truth_answer": "\"French roof\" or \"curb roof\""
+    },
+    "5a8e4d545542990e94052abd": {
+        "generated_answer": "Missouri",
+        "gold_truth_answer": "Missouri"
+    },
+    "5ae20b335542997283cd2358": {
+        "generated_answer": "American",
+        "gold_truth_answer": "British"
+    },
+    "5a728f895542994cef4bc335": {
+        "generated_answer": "Fox Entertainment Group division of 21st Century Fox.",
+        "gold_truth_answer": "Fox Entertainment Group"
+    },
+    "5ae01da755429925eb1afc17": {
+        "generated_answer": "Dionysus",
+        "gold_truth_answer": "Dionysus"
+    },
+    "5ab56512554299494045ef95": {
+        "generated_answer": "The Simpsons",
+        "gold_truth_answer": "Matt Groening"
+    },
+    "5aba0c5e5542994dbf01989d": {
+        "generated_answer": "Sikkil Gurucharan.",
+        "gold_truth_answer": "Vaigal Shri S. Gnanaskandan"
+    },
+    "5ae60e05554299546bf83045": {
+        "generated_answer": "2008",
+        "gold_truth_answer": "2009"
+    },
+    "5ab9c2e7554299131ca423f6": {
+        "generated_answer": "Belfast",
+        "gold_truth_answer": "Birmingham"
+    },
+    "5ae671e25542992ae0d1634e": {
+        "generated_answer": "Masters",
+        "gold_truth_answer": "greatest artists of all time"
+    },
+    "5abace0a5542996606241621": {
+        "generated_answer": "number 2",
+        "gold_truth_answer": "number 2"
+    },
+    "5ab5cead554299637185c621": {
+        "generated_answer": "Iowa State",
+        "gold_truth_answer": "Iowa State Cyclones football"
+    },
+    "5ae725855542995703ce8bda": {
+        "generated_answer": "Irfan Ahmed",
+        "gold_truth_answer": "Khalid Latif"
+    },
+    "5a810ebe55429926c1cdacdc": {
+        "generated_answer": "Indiana",
+        "gold_truth_answer": "Albert Park Lake"
+    },
+    "5ae1296a554299422ee99615": {
+        "generated_answer": "February 10, 2014",
+        "gold_truth_answer": "November 28, 1963"
+    },
+    "5a75e3845542994ccc91864e": {
+        "generated_answer": "The answer is: None (there is no mention of Flossie Bailey receiving an award named after Madam C. J. Walker in the provided search results).",
+        "gold_truth_answer": "Madam C. J. Walker"
+    },
+    "5ac10b6d554299294b219073": {
+        "generated_answer": "Canada",
+        "gold_truth_answer": "Canada"
+    },
+    "5a7a1e635542990783324e69": {
+        "generated_answer": "NCAA Division II.",
+        "gold_truth_answer": "NCAA Division II"
+    },
+    "5a8f08b35542995085b374de": {
+        "generated_answer": "Glass-plate negatives.",
+        "gold_truth_answer": "glass-plate"
+    },
+    "5ab5757b554299637185c59f": {
+        "generated_answer": "1922",
+        "gold_truth_answer": "1937"
+    },
+    "5ab85f555542992aa3b8c8ca": {
+        "generated_answer": "Melodifestivalen",
+        "gold_truth_answer": "Mercury Prize"
+    },
+    "5a727d555542992359bc30bf": {
+        "generated_answer": "Marlins",
+        "gold_truth_answer": "Miami Marlins"
+    },
+    "5ae1b3c55542997283cd224b": {
+        "generated_answer": "Ishir\u014d Honda",
+        "gold_truth_answer": "Ishir\u014d Honda"
+    },
+    "5a80ab355542996402f6a5de": {
+        "generated_answer": "Kylie Minoque",
+        "gold_truth_answer": "citizenship"
+    },
+    "5a8f7ca055429918e830d23a": {
+        "generated_answer": "Jerry Lee Lewis",
+        "gold_truth_answer": "Jerry Lee Lewis"
+    },
+    "5ae13ca055429901ffe4ae19": {
+        "generated_answer": "Deceased",
+        "gold_truth_answer": "Deceased"
+    },
+    "5a87d9595542994775f60803": {
+        "generated_answer": "Vijay",
+        "gold_truth_answer": "the Tamil film industry"
+    },
+    "5a90687555429933b8a20521": {
+        "generated_answer": "Rune Poems",
+        "gold_truth_answer": "runic"
+    },
+    "5ac26e4255429951e9e685bd": {
+        "generated_answer": "Toronto Maple Leafs.",
+        "gold_truth_answer": "Toronto Maple Leafs"
+    },
+    "5a8b464955429949d91db521": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "Airbnb"
+    },
+    "5a846da0554299334474611e": {
+        "generated_answer": "St. Louis Browns",
+        "gold_truth_answer": "St. Louis Cardinals"
+    },
+    "5a7ea06c55429934daa2fc48": {
+        "generated_answer": "1",
+        "gold_truth_answer": "ten years"
+    },
+    "5ab3b777554299233954ff91": {
+        "generated_answer": "Super Bowl ring.",
+        "gold_truth_answer": "Super Bowl ring"
+    },
+    "5ae346eb5542992e3233c35d": {
+        "generated_answer": "29 November 1985",
+        "gold_truth_answer": "27 August 1908"
+    },
+    "5a7d351e554299452d57bb59": {
+        "generated_answer": "Carr\u00e8re & Hastings",
+        "gold_truth_answer": "Carr\u00e8re & Hastings"
+    },
+    "5a8d811b554299441c6b9ff1": {
+        "generated_answer": "Vingt ans apr\u00e8s",
+        "gold_truth_answer": "Les Trois Mousquetaires"
+    },
+    "5ac11a24554299012d1db69a": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5a7122055542994082a3e5bf": {
+        "generated_answer": "Richard Brooks",
+        "gold_truth_answer": "Richard Brooks"
+    },
+    "5abaf38355429939ce03dd73": {
+        "generated_answer": "June 4, 1930",
+        "gold_truth_answer": "January 5, 1946"
+    },
+    "5a74b90d55429929fddd84d3": {
+        "generated_answer": "Ferrari",
+        "gold_truth_answer": "Scuderia Ferrari"
+    },
+    "5abfbf925542990832d3a1d8": {
+        "generated_answer": "Luis Bu\u00f1uel",
+        "gold_truth_answer": "Luis Bu\u00f1uel"
+    },
+    "5a8d95ce554299068b959d52": {
+        "generated_answer": "1981",
+        "gold_truth_answer": "1964"
+    },
+    "5abf984c5542997ec76fd3fe": {
+        "generated_answer": "Wilfred Owen.",
+        "gold_truth_answer": "Wilfred Edward Salter Owen"
+    },
+    "5ae76a955542997b22f6a743": {
+        "generated_answer": "Enoch \"Nucky\" Johnson",
+        "gold_truth_answer": "Enoch Lewis \"Nucky\" Johnson"
+    },
+    "5a9087c655429933b8a20537": {
+        "generated_answer": "10 March 2017",
+        "gold_truth_answer": "June 7, 2005"
+    },
+    "5a8dd6075542995a26add409": {
+        "generated_answer": "Giles Coren",
+        "gold_truth_answer": "Giles Coren"
+    },
+    "5ab9e447554299232ef4a25b": {
+        "generated_answer": "Baseball",
+        "gold_truth_answer": "medical doctor"
+    },
+    "5add2aad5542992c1e3a254d": {
+        "generated_answer": "Austrian",
+        "gold_truth_answer": "The Waltz King"
+    },
+    "5a778cc255429949eeb29eec": {
+        "generated_answer": "USS \"Stamford\" (PF-95)",
+        "gold_truth_answer": "USS \"Kentucky\""
+    },
+    "5ab8337d55429934fafe6d11": {
+        "generated_answer": "March 4, 1889, to March 4, 1893",
+        "gold_truth_answer": "1889 to 1893"
+    },
+    "5ae735c8554299572ea54787": {
+        "generated_answer": "1928",
+        "gold_truth_answer": "1989"
+    },
+    "5a8b1a925542997f31a41c6e": {
+        "generated_answer": "Tom Hiddleston",
+        "gold_truth_answer": "Cymbeline"
+    },
+    "5ac150d35542994d76dccdd2": {
+        "generated_answer": "Rock Hudson",
+        "gold_truth_answer": "Rock Hudson"
+    },
+    "5ab6e536554299110f219a74": {
+        "generated_answer": "There is no answer.",
+        "gold_truth_answer": "Dame Ellen Terry"
+    },
+    "5abae4255542996606241664": {
+        "generated_answer": "October 2, 2006",
+        "gold_truth_answer": "June 15, 2004"
+    },
+    "5ab2f2ee554299166977414c": {
+        "generated_answer": "Holmskioldia",
+        "gold_truth_answer": "Holmskioldia"
+    },
+    "5a8031005542992bc0c4a6d4": {
+        "generated_answer": "Dieppe Raid",
+        "gold_truth_answer": "Dieppe Raid"
+    },
+    "5adcdbd45542990d50227d48": {
+        "generated_answer": "Rocky Mountains",
+        "gold_truth_answer": "Rocky Mountains"
+    },
+    "5a8b291455429971feec4658": {
+        "generated_answer": "King Edward the Confessor (1047\u201348, 1051)",
+        "gold_truth_answer": "1042 to 1066"
+    },
+    "5a82029a554299676cceb1d7": {
+        "generated_answer": "26 million",
+        "gold_truth_answer": "10 million"
+    },
+    "5a88884f5542997e5c09a5f3": {
+        "generated_answer": "Leonor Fini",
+        "gold_truth_answer": "Leonor Fini"
+    },
+    "5ab41cb3554299753aec5a3d": {
+        "generated_answer": "29",
+        "gold_truth_answer": "(born 19 March 1936)"
+    },
+    "5a8a12975542992d82986e91": {
+        "generated_answer": "Ireland",
+        "gold_truth_answer": "Ireland"
+    },
+    "5ac30d13554299741d48a18e": {
+        "generated_answer": "1963",
+        "gold_truth_answer": "1860"
+    },
+    "5a81dcde554299676cceb110": {
+        "generated_answer": "New York City",
+        "gold_truth_answer": "Los Angeles"
+    },
+    "5a7793595542997042120aa9": {
+        "generated_answer": "Nicholas Flamel",
+        "gold_truth_answer": "Erik Weisz"
+    },
+    "5ac1a93b55429963665198d5": {
+        "generated_answer": "November 24, 1801",
+        "gold_truth_answer": "in a duel"
+    },
+    "5a7bc49855429927d897c03a": {
+        "generated_answer": "Yearly",
+        "gold_truth_answer": "every four years"
+    },
+    "5abb79315542993f40c73aff": {
+        "generated_answer": "Brad Scott",
+        "gold_truth_answer": "1976"
+    },
+    "5ae3369a5542994393b9e652": {
+        "generated_answer": "Representative Rick Nolan as a Democrat.",
+        "gold_truth_answer": "Democratic\u2013Farmer\u2013Labor"
+    },
+    "5ae3b01d5542992e3233c449": {
+        "generated_answer": "Laura Hope Crews",
+        "gold_truth_answer": "Leslie Howard"
+    },
+    "5abcfce15542992ac4f3817a": {
+        "generated_answer": "Cinderella",
+        "gold_truth_answer": "1949"
+    },
+    "5a88981c554299206df2b307": {
+        "generated_answer": "American Civil War.",
+        "gold_truth_answer": "War"
+    },
+    "5a8db1ad554299441c6ba038": {
+        "generated_answer": "1945",
+        "gold_truth_answer": "2008"
+    },
+    "5ae834e95542997ec272776a": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "Highwayman"
+    },
+    "5a7f20175542993067513648": {
+        "generated_answer": "Italy",
+        "gold_truth_answer": "Po River"
+    },
+    "5ade88105542997c77adee47": {
+        "generated_answer": "Random House Tower",
+        "gold_truth_answer": "Random House Tower"
+    },
+    "5abecb5f5542997719eab5c1": {
+        "generated_answer": "There is no mention of Ike being based on a memoir by a member of the British Mechanised Transport Corps in the provided search results.",
+        "gold_truth_answer": "Kay Summersby"
+    },
+    "5a72239a55429971e9dc92cf": {
+        "generated_answer": "Document [1]",
+        "gold_truth_answer": "Major Charles White Whittlesey"
+    },
+    "5a76126155429976ec32bcfd": {
+        "generated_answer": "Superior",
+        "gold_truth_answer": "Stillwater County, Montana"
+    },
+    "5a853b045542997175ce1f9d": {
+        "generated_answer": "There is no architect mentioned in the search results who helped build a building completed in 2003 at a cost of \u00a360 million.",
+        "gold_truth_answer": "Jan Kaplick\u00fd"
+    },
+    "5add83705542992ae4cec595": {
+        "generated_answer": "The Adventure Company and MECC.",
+        "gold_truth_answer": "Minnesota Educational Computing Consortium"
+    },
+    "5ae34a225542992e3233c370": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5a7b47b855429927d897bf71": {
+        "generated_answer": "Robert Redford",
+        "gold_truth_answer": "Robert Redford"
+    },
+    "5a902af45542995651fb50d5": {
+        "generated_answer": "Prince Of Norway",
+        "gold_truth_answer": "King Harald V"
+    },
+    "5ac413bd5542997ea680c9e7": {
+        "generated_answer": "Not mentioned.",
+        "gold_truth_answer": "1967"
+    },
+    "5ae103f4554299422ee995c5": {
+        "generated_answer": "October 11, 1939",
+        "gold_truth_answer": "March 16, 1934"
+    },
+    "5a8d7b1755429941ae14dfc6": {
+        "generated_answer": "11,977",
+        "gold_truth_answer": "51,271"
+    },
+    "5a7bd0c3554299294a54ab0c": {
+        "generated_answer": "1963",
+        "gold_truth_answer": "1958"
+    },
+    "5ae16667554299422ee99679": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5a7f42035542992e7d278cce": {
+        "generated_answer": "Corey Reed",
+        "gold_truth_answer": "Frank Darabont"
+    },
+    "5ac28c335542992f1f2b38f8": {
+        "generated_answer": "Lifetime",
+        "gold_truth_answer": "Red Bank"
+    },
+    "5a81f1045542995ce29dcc93": {
+        "generated_answer": "Ulster",
+        "gold_truth_answer": "Ulster"
+    },
+    "5ab3b1305542992ade7c6e3d": {
+        "generated_answer": "Lusaka.",
+        "gold_truth_answer": "Zambia"
+    },
+    "5ade2e1a554299728e26c664": {
+        "generated_answer": "3rd congressional district",
+        "gold_truth_answer": "California's 12th"
+    },
+    "5ae23f36554299492dc91be3": {
+        "generated_answer": "AT&T Stadium",
+        "gold_truth_answer": "AT&T Stadium"
+    },
+    "5a88dbe95542993b751ca88f": {
+        "generated_answer": "Henry Bacon",
+        "gold_truth_answer": "Henry Bacon"
+    },
+    "5abe5d4755429976d4830b00": {
+        "generated_answer": "Rudolf Abel",
+        "gold_truth_answer": "Vilyam \"Willie\" Genrikhovich Fisher"
+    },
+    "5ae6145b5542996de7b71b2f": {
+        "generated_answer": "Los Angeles Clippers",
+        "gold_truth_answer": "Los Angeles Clippers"
+    },
+    "5ae063935542993d6555eb3c": {
+        "generated_answer": "Annette Bening.",
+        "gold_truth_answer": "Multiplicity"
+    },
+    "5a7df8605542995f4f40235b": {
+        "generated_answer": "March 14, 1903",
+        "gold_truth_answer": "1911"
+    },
+    "5ae0185b55429942ec259c1b": {
+        "generated_answer": "15,140",
+        "gold_truth_answer": "15,140"
+    },
+    "5adcec2d5542994d58a2f719": {
+        "generated_answer": "Shelley Long",
+        "gold_truth_answer": "Jenny Lewis"
+    },
+    "5a7154e35542994082a3e7e4": {
+        "generated_answer": "FHM",
+        "gold_truth_answer": "Front"
+    },
+    "5a845cc85542996488c2e52a": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5ab41cbd5542991751b4d664": {
+        "generated_answer": "Natal lily, bush lily",
+        "gold_truth_answer": "Clianthus"
+    },
+    "5a7dae8c5542991319bc93ea": {
+        "generated_answer": "Frederick the Great",
+        "gold_truth_answer": "Frederick the Great"
+    },
+    "5ab69242554299710c8d1ed4": {
+        "generated_answer": "Shirley Jones",
+        "gold_truth_answer": "Shirley Jones"
+    },
+    "5ab7cb3f55429928e1fe38fc": {
+        "generated_answer": "December 10, 2006",
+        "gold_truth_answer": "December 10, 2006"
+    },
+    "5ab5b0e05542997d4ad1f1ac": {
+        "generated_answer": "Rich Franklin",
+        "gold_truth_answer": "Rich Franklin"
+    },
+    "5adcb81d5542994ed6169bd1": {
+        "generated_answer": "indoor",
+        "gold_truth_answer": "an indoor arena"
+    },
+    "5ae4ca4955429960a22e01e4": {
+        "generated_answer": "Islesboro",
+        "gold_truth_answer": "566 at the 2010 census"
+    },
+    "5ac16f4c5542994ab5c67d2e": {
+        "generated_answer": "There is no answer as there is no document mentioning the 2010 FIFA World Cup Final or the scorer of the only goal.",
+        "gold_truth_answer": "Andr\u00e9s Iniesta"
+    },
+    "5ae0541555429924de1b70a7": {
+        "generated_answer": "Norcross, Georgia, 44,000",
+        "gold_truth_answer": "9,116"
+    },
+    "5ab6e93055429954757d33b7": {
+        "generated_answer": "Mary Poppins",
+        "gold_truth_answer": "The Jungle Book"
+    },
+    "5a7abdb055429927d897befe": {
+        "generated_answer": "Rare",
+        "gold_truth_answer": "Nintendo"
+    },
+    "5ae0c8685542993d6555ec66": {
+        "generated_answer": "I Remember Mama",
+        "gold_truth_answer": "Mama's Bank Account"
+    },
+    "5ac34baa5542995ef918c17c": {
+        "generated_answer": "Battle off Samar",
+        "gold_truth_answer": "the battle of Waterloo"
+    },
+    "5ab72f3155429928e1fe3837": {
+        "generated_answer": "American",
+        "gold_truth_answer": "American"
+    },
+    "5ae409ec55429970de88d8a0": {
+        "generated_answer": "B-1 Bomber",
+        "gold_truth_answer": "Foxbat"
+    },
+    "5a8843cd5542994846c1ce75": {
+        "generated_answer": "Mwabvi",
+        "gold_truth_answer": "Buffalo"
+    },
+    "5a7c408d5542996dd594b8e8": {
+        "generated_answer": "The combination of the highly similar Ahrensburg and Bromme cultures as one and the same.",
+        "gold_truth_answer": "north-central Europe"
+    },
+    "5a72ab305542994cef4bc3c8": {
+        "generated_answer": "Oklahoma Sooners",
+        "gold_truth_answer": "2015 Oklahoma Sooners football team"
+    },
+    "5ab32486554299233954ff2a": {
+        "generated_answer": "The Broadmoor Hotel.",
+        "gold_truth_answer": "Hilton Hawaiian Village"
+    },
+    "5a823fbf55429903bc27ba54": {
+        "generated_answer": "Evanescence, Collide and Lacuna Coil.",
+        "gold_truth_answer": "1995"
+    },
+    "5a8353285542996488c2e40d": {
+        "generated_answer": "End of the Rainbow.",
+        "gold_truth_answer": "Voice"
+    },
+    "5a81736255429903bc27b96e": {
+        "generated_answer": "There is no answer provided within the given search results for this question.",
+        "gold_truth_answer": "Nansen Ski Jump"
+    },
+    "5a8baf1a554299240d9c2082": {
+        "generated_answer": "None",
+        "gold_truth_answer": "Nostalghia"
+    },
+    "5ab9e2f1554299232ef4a251": {
+        "generated_answer": "Uttar Pradesh",
+        "gold_truth_answer": "Swarajya"
+    },
+    "5a81e239554299676cceb133": {
+        "generated_answer": "No",
+        "gold_truth_answer": "no"
+    },
+    "5ae2361d5542992decbdcc68": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "Memoirs of a Geisha"
+    },
+    "5adfc29655429942ec259b3d": {
+        "generated_answer": "4 August 1946",
+        "gold_truth_answer": "4 August 1946"
+    },
+    "5ae71acf554299572ea546e0": {
+        "generated_answer": "Sergio Castillo",
+        "gold_truth_answer": "Franck Khalfoun"
+    },
+    "5ae1c02e554299492dc91b85": {
+        "generated_answer": "1957",
+        "gold_truth_answer": "The Seine Meets Paris"
+    },
+    "5adfa8ac55429942ec259add": {
+        "generated_answer": "Michael Kennedy",
+        "gold_truth_answer": "Joel Schumacher"
+    },
+    "5adfe2ca55429925eb1afaf7": {
+        "generated_answer": "United States",
+        "gold_truth_answer": "United States"
+    },
+    "5ae40a2e5542996836b02c21": {
+        "generated_answer": "Johnt\u00e1 Austin",
+        "gold_truth_answer": "Janet Damita Jo Jackson"
+    },
+    "5a88c0ec55429946c8d6e8a9": {
+        "generated_answer": "David Beckham",
+        "gold_truth_answer": "2013"
+    },
+    "5a7a91cc55429941d65f26b8": {
+        "generated_answer": "Alexander Vraciu",
+        "gold_truth_answer": "Albert Ogden \"Scoop\" Vorse Jr."
+    },
+    "5ae55dc855429960a22e02cd": {
+        "generated_answer": "20.2 points and 8.8 assists per game",
+        "gold_truth_answer": "5 ft"
+    },
+    "5ac28ef35542996773102593": {
+        "generated_answer": "Spain",
+        "gold_truth_answer": "England"
+    },
+    "5ac15cc45542994ab5c67cfa": {
+        "generated_answer": "American",
+        "gold_truth_answer": "American"
+    },
+    "5a7148d25542994082a3e766": {
+        "generated_answer": "Roy S\u00e6tre Khantatat (born March 12, 1970) is older than Warrel Dane (no birthdate mentioned).",
+        "gold_truth_answer": "Warrel Dane"
+    },
+    "5ac131de55429964131be172": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5a89e6645542992e4fca8464": {
+        "generated_answer": "The First Texan (1956)",
+        "gold_truth_answer": "Tex"
+    },
+    "5a8b30125542997f31a41caf": {
+        "generated_answer": "Document [1](Title: Ed Wood) Edward Davis Wood Jr. (October 10, 1924 \u2013 December 10, 1978) was an American filmmaker, actor, writer, producer, and director.\n\nDocument [2](Title: Scott Derrickson) Scott Derrickson (born July 16, 1966) is an American director, screenwriter and producer. He lives in Los Angeles, California. He is best known for directing horror films such as \"Sinister\", \"The Exorcism of Emily Rose\", and \"Deliver Us From Evil\", as well as the 2016 Marvel Cinematic Universe installment, \"Doctor Strange.\"\n\nQuestion: Were Scott Derrickson and Ed Wood of the same nationality?\nAnswer: yes",
+        "gold_truth_answer": "film director"
+    },
+    "5ae246e3554299492dc91c09": {
+        "generated_answer": "China",
+        "gold_truth_answer": "China"
+    },
+    "5a8edb7f55429917b4a5bdeb": {
+        "generated_answer": "4 World Trade Center",
+        "gold_truth_answer": "4 World Trade Center"
+    },
+    "5ae10f9755429901ffe4ad3b": {
+        "generated_answer": "Martin Jol",
+        "gold_truth_answer": "midfielder"
+    },
+    "5a81d59a55429903bc27b9d6": {
+        "generated_answer": "The Kenya-Uganda Railway",
+        "gold_truth_answer": "Tsavo East National Park"
+    },
+    "5a83c9f85542992ef85e2362": {
+        "generated_answer": "Walt Disney Company",
+        "gold_truth_answer": "Walt Disney and Roy O. Disney"
+    },
+    "5a87494b5542996432c5724f": {
+        "generated_answer": "Mario Almirante",
+        "gold_truth_answer": "Robert Luketic"
+    },
+    "5a77479755429972597f14e5": {
+        "generated_answer": "This artist is not mentioned in the provided search results.",
+        "gold_truth_answer": "Drake Bell"
+    },
+    "5a7df7975542995f4f402356": {
+        "generated_answer": "X-COM",
+        "gold_truth_answer": "Don't Break the Ice"
+    },
+    "5ab7f1a05542995dae37e9fd": {
+        "generated_answer": "Question 1: What was the position of Yehia Emam in the Alexandria games?\nAnswer: None of the provided documents mentions Yehia Emam being in a position in Alexandria games.",
+        "gold_truth_answer": "Goalkeeper"
+    },
+    "5adc37e2554299438c868d79": {
+        "generated_answer": "Woredas",
+        "gold_truth_answer": "kumu hula dancer"
+    },
+    "5a7a7a5c55429941d65f266c": {
+        "generated_answer": "19.6 km",
+        "gold_truth_answer": "117 mi"
+    },
+    "5ac29ca6554299218029dac0": {
+        "generated_answer": "1964",
+        "gold_truth_answer": "1961"
+    },
+    "5a88f5e05542993b751ca8d7": {
+        "generated_answer": "1934",
+        "gold_truth_answer": "May 4, 1905"
+    },
+    "5abce6b655429959677d6b2f": {
+        "generated_answer": "Nipponaspis",
+        "gold_truth_answer": "Nipponanthemum"
+    },
+    "5ae389c55542991a06ce99e2": {
+        "generated_answer": "Fox",
+        "gold_truth_answer": "Fox"
+    },
+    "5a77d64c55429949eeb29f7a": {
+        "generated_answer": "Estrid of the Obotrites",
+        "gold_truth_answer": "Icelandic"
+    },
+    "5a88796c554299206df2b2ab": {
+        "generated_answer": "Vogue",
+        "gold_truth_answer": "Vogue"
+    },
+    "5ae2dbb055429928c4239505": {
+        "generated_answer": "1964",
+        "gold_truth_answer": "1996"
+    },
+    "5ab3142a55429976abd1bc56": {
+        "generated_answer": "25",
+        "gold_truth_answer": "Geissorhiza"
+    },
+    "5adcc5905542990d50227d0b": {
+        "generated_answer": "U.S. Route 66",
+        "gold_truth_answer": "Will Rogers Highway"
+    },
+    "5ab2f0be554299545a2cfadd": {
+        "generated_answer": "document filmmaker",
+        "gold_truth_answer": "documentary maker"
+    },
+    "5add14bc5542992ae4cec456": {
+        "generated_answer": "film director",
+        "gold_truth_answer": "director"
+    },
+    "5a77f7ba5542995d8318133b": {
+        "generated_answer": "Sayonara Hitori",
+        "gold_truth_answer": "Sayonara Hitori"
+    },
+    "5a78e2f855429970f5fffdbd": {
+        "generated_answer": "Portadown",
+        "gold_truth_answer": "\"hub of the North\""
+    },
+    "5abb7fd35542996cc5e4a014": {
+        "generated_answer": "Galileo Galilei",
+        "gold_truth_answer": "Galileo Galilei"
+    },
+    "5a73619655429901807db01b": {
+        "generated_answer": "Taiwan",
+        "gold_truth_answer": "Taiwan"
+    },
+    "5ae4903855429913cc2044a0": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "documentary film"
+    },
+    "5a8add645542992d82986fb5": {
+        "generated_answer": "no",
+        "gold_truth_answer": "yes"
+    },
+    "5ac2566a5542992f1f2b385e": {
+        "generated_answer": "No entry mentions a Jordan Subban born on May 13, 1989.",
+        "gold_truth_answer": "P. K. Subban"
+    },
+    "5a735ea855429901807db00f": {
+        "generated_answer": "None of the provided search results contain information about a person born on August 8th 1984.",
+        "gold_truth_answer": "Owen Jones"
+    },
+    "5a8f5767554299458435d5c2": {
+        "generated_answer": "Maihuenia",
+        "gold_truth_answer": "Neolitsea"
+    },
+    "5abb00705542992ccd8e7ea7": {
+        "generated_answer": "1955",
+        "gold_truth_answer": "1955"
+    },
+    "5a7627ff5542992d0ec0602f": {
+        "generated_answer": "Keith Littler",
+        "gold_truth_answer": "Mark Ronson"
+    },
+    "5abdc40155429965af743e2c": {
+        "generated_answer": "actress",
+        "gold_truth_answer": "singer"
+    },
+    "5ae724b45542995703ce8bd7": {
+        "generated_answer": "American",
+        "gold_truth_answer": "American"
+    },
+    "5a78f753554299078472776e": {
+        "generated_answer": "Philip Catherine born 27 October 1942, Alex Masi no birthday mentioned",
+        "gold_truth_answer": "Philip Steven Labonte"
+    },
+    "5ae611905542996de7b71b20": {
+        "generated_answer": "Montana",
+        "gold_truth_answer": "Rosebud County"
+    },
+    "5ae5f3695542996de7b71a7d": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "Jesse Wesley Williams"
+    },
+    "5ab501405542991779162d4a": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5a7ded595542995f4f402313": {
+        "generated_answer": "1781",
+        "gold_truth_answer": "1755"
+    },
+    "5ae3bd045542992e3233c46a": {
+        "generated_answer": "Yes",
+        "gold_truth_answer": "no"
+    },
+    "5a738e6e55429978a71e9028": {
+        "generated_answer": "Zoohoria",
+        "gold_truth_answer": "Guess Who?"
+    },
+    "5abdddfb5542991f6610607f": {
+        "generated_answer": "Merry-go-round",
+        "gold_truth_answer": "carousel"
+    },
+    "5a89a99f55429946c8d6e98f": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5ab46a0f5542990594ba9c1b": {
+        "generated_answer": "Stanford.",
+        "gold_truth_answer": "University of Mississippi"
+    },
+    "5add527c5542992200553aa7": {
+        "generated_answer": "Manju Warrier",
+        "gold_truth_answer": "Anushka Sharma"
+    },
+    "5ac0d438554299294b21901c": {
+        "generated_answer": "Yorkshire",
+        "gold_truth_answer": "Yorkshire Terrier"
+    },
+    "5abc5955554299114383a117": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5a7f7a755542992097ad2f7f": {
+        "generated_answer": "Stefan Effenberg",
+        "gold_truth_answer": "Thomas Ritter"
+    },
+    "5ae0a4ff55429906c02daaec": {
+        "generated_answer": "Bologna",
+        "gold_truth_answer": "Northern Italy"
+    },
+    "5ab2e85c55429929539468a7": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5ae142e655429901ffe4ae2f": {
+        "generated_answer": "tennis",
+        "gold_truth_answer": "tennis"
+    },
+    "5ab8630f55429919ba4e22d5": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5abcff215542992ac4f3818b": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "Pussy Galore was an American garage rock band that formed in Washington, D.C. in 1985"
+    },
+    "5a8f81b9554299458435d661": {
+        "generated_answer": "The search results do not provide information about Sonam Sherpa's band being officially formed on a specific date.",
+        "gold_truth_answer": "17 June 1991"
+    },
+    "5a8d841c554299068b959d21": {
+        "generated_answer": "Lancaster architect Edmund Sharpe.",
+        "gold_truth_answer": "Knutsford, Cheshire"
+    },
+    "5a7cdcf455429909bec76854": {
+        "generated_answer": "Lord of the Skies",
+        "gold_truth_answer": "laundering money via Colombia"
+    },
+    "5adccf0d5542992c1e3a240f": {
+        "generated_answer": "There is no actor mentioned in the provided search results who starred in both \"Myortvyy sezon\" and \"Solaris\".",
+        "gold_truth_answer": "Donatas Banionis"
+    },
+    "5a863aa255429960ec39b653": {
+        "generated_answer": "honourable",
+        "gold_truth_answer": "honourable"
+    },
+    "5add1cb55542994734353853": {
+        "generated_answer": "They are both married to Indian actresses: Tim Kaine is married to Anudit Patel, and Aneesh Chopra is married to Parineeti Chopra.",
+        "gold_truth_answer": "American"
+    },
+    "5a77420b55429972597f14db": {
+        "generated_answer": "Biweekly",
+        "gold_truth_answer": "Croissant"
+    },
+    "5ab55d725542992aa134a2cf": {
+        "generated_answer": "Bailout! The Game",
+        "gold_truth_answer": "Bailout! The Game"
+    },
+    "5ab702ad5542991d32223744": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5a892e1e55429951533612d3": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5a81f93e554299676cceb1ab": {
+        "generated_answer": "England",
+        "gold_truth_answer": "England"
+    },
+    "5ae488b955429970de88d99e": {
+        "generated_answer": "New Brunswick",
+        "gold_truth_answer": "New Brunswick"
+    },
+    "5ac5064b5542994611c8b322": {
+        "generated_answer": "College basketball",
+        "gold_truth_answer": "basketball"
+    },
+    "5a8f1453554299458435d549": {
+        "generated_answer": "Datura",
+        "gold_truth_answer": "Castanopsis"
+    },
+    "5add5c915542997545bbbd3d": {
+        "generated_answer": "Bikini Kill",
+        "gold_truth_answer": "Headstones"
+    },
+    "5abde4595542991f66106095": {
+        "generated_answer": "Europe and Asia",
+        "gold_truth_answer": "Scotland"
+    },
+    "5a832d5b55429954d2e2ec48": {
+        "generated_answer": "Film",
+        "gold_truth_answer": "film"
+    },
+    "5a790bb555429970f5fffe32": {
+        "generated_answer": "Bang!",
+        "gold_truth_answer": "Arkham Horror"
+    },
+    "5a7c963155429935c91b5245": {
+        "generated_answer": "Tamannaah",
+        "gold_truth_answer": "Makkal Selvan"
+    },
+    "5addf1975542997dc79070d6": {
+        "generated_answer": "Trey Parker",
+        "gold_truth_answer": "Trey Parker and Matt Stone"
+    },
+    "5adf8dc45542995534e8c7e3": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5abffa7e5542997d64295986": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5ae446175542995ad6573d1f": {
+        "generated_answer": "No result provided.",
+        "gold_truth_answer": "David Wells"
+    },
+    "5aba146b55429955dce3edc6": {
+        "generated_answer": "We're Back! A Dinosaur's Story",
+        "gold_truth_answer": "Toy Story 2"
+    },
+    "5ae350f05542994393b9e67c": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5add5e095542992ae4cec527": {
+        "generated_answer": "a real-life naval skirmish with North Korea in June 2002",
+        "gold_truth_answer": "North Korea"
+    },
+    "5ae3a8ca5542990afbd1e1a6": {
+        "generated_answer": "The film In Good Company (2004) starring Dennis Quaid, Topher Grace, and Scarlett Johansson.",
+        "gold_truth_answer": "film"
+    },
+    "5a7a93ba55429941d65f26c4": {
+        "generated_answer": "Baseball",
+        "gold_truth_answer": "Baseball"
+    },
+    "5a874fd65542994846c1cd5a": {
+        "generated_answer": "no",
+        "gold_truth_answer": "yes"
+    },
+    "5a8b76575542997f31a41d39": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5ab853595542990e739ec8c7": {
+        "generated_answer": "Fyvie Castle.",
+        "gold_truth_answer": "Aberdeenshire, Scotland"
+    },
+    "5ac17ce15542994ab5c67d6c": {
+        "generated_answer": "Flowering plants",
+        "gold_truth_answer": "flowering"
+    },
+    "5a80dc0455429938b614221d": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5ae29ec6554299495565dae4": {
+        "generated_answer": "Erotic literature",
+        "gold_truth_answer": "prostitution, orgies, homosexuality, sadomasochism, and many other taboo subjects and fetishes"
+    },
+    "5ac227ed5542992f1f2b381c": {
+        "generated_answer": "lyric coloratura",
+        "gold_truth_answer": "lyric soprano is a type of operatic soprano voice"
+    },
+    "5ae0a33055429945ae9593db": {
+        "generated_answer": "Great Falls Voyagers",
+        "gold_truth_answer": "Great Falls Voyagers"
+    },
+    "5adfb992554299603e418391": {
+        "generated_answer": "April 11,",
+        "gold_truth_answer": "1909"
+    },
+    "5a73e0f555429905862fe0eb": {
+        "generated_answer": "Games",
+        "gold_truth_answer": "games"
+    },
+    "5ae1fb09554299234fd04382": {
+        "generated_answer": "Grier Kenna.",
+        "gold_truth_answer": "Caro Jones"
+    },
+    "5a8381905542996488c2e44c": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5abd01ee5542992ac4f381a0": {
+        "generated_answer": "Thomas Merton",
+        "gold_truth_answer": "Thomas Merton"
+    },
+    "5a77c1e155429967ab105267": {
+        "generated_answer": "December 12, 1915",
+        "gold_truth_answer": "Francis Albert Sinatra"
+    },
+    "5a7391b655429978a71e902c": {
+        "generated_answer": "Alfredo Andreini",
+        "gold_truth_answer": "Andrei Platonov"
+    },
+    "5adbfca855429947ff173898": {
+        "generated_answer": "Richard John Kerry (July 28, 1915 \u2013 July 29, 2000)",
+        "gold_truth_answer": "John Vanbrugh"
+    },
+    "5adc392955429944faac2477": {
+        "generated_answer": "Petunia",
+        "gold_truth_answer": "Petunia"
+    },
+    "5abbf95c55429931dba145fb": {
+        "generated_answer": "More Life",
+        "gold_truth_answer": "More Life"
+    },
+    "5adea0d95542997c77adee93": {
+        "generated_answer": "Rock",
+        "gold_truth_answer": "rock"
+    },
+    "5ab850ef55429919ba4e22a7": {
+        "generated_answer": "progressive/hard rock",
+        "gold_truth_answer": "rock"
+    },
+    "5a752d2b55429916b0164284": {
+        "generated_answer": "Daron Malakian",
+        "gold_truth_answer": "Daron Malakian"
+    },
+    "5a7a2dac5542990198eaf0b6": {
+        "generated_answer": "There is no mention of Keisuke Kuwata or Moya Brennan in the provided documents.",
+        "gold_truth_answer": "Keisuke Kuwata"
+    },
+    "5abd4f945542992ac4f38247": {
+        "generated_answer": "Document [1] The Giant Schnauzer is a working breed of dog developed in the 17th century in Germany. It is the largest of the three breeds of Schnauzer...",
+        "gold_truth_answer": "breed of dog"
+    },
+    "5ae2b794554299495565db10": {
+        "generated_answer": "October 23, 1989",
+        "gold_truth_answer": "February 18, 1965"
+    },
+    "5ae118c255429901ffe4ad84": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5a8af53e55429971feec45b3": {
+        "generated_answer": "Firefly Estate, located 10 km east of Oracabessa, Jamaica, is the burial place of Sir No\u00ebl Coward and his former vacation home.",
+        "gold_truth_answer": "the burial place"
+    },
+    "5a7bb84d554299294a54aaa1": {
+        "generated_answer": "David Usher (born April 24, 1966) is an English-born Canadian musician, best-selling author, keynote speaker and activist, known as the lead singer of the alternative rock band Moist.",
+        "gold_truth_answer": "David Usher"
+    },
+    "5a90991d5542990a9849366b": {
+        "generated_answer": "Federal Correctional Institution, Terre Haute.",
+        "gold_truth_answer": "Indiana"
+    },
+    "5a8a0bb75542992d82986e74": {
+        "generated_answer": "Yes",
+        "gold_truth_answer": "yes"
+    },
+    "5a909a665542990a9849366c": {
+        "generated_answer": "singer",
+        "gold_truth_answer": "singer"
+    },
+    "5ab804a75542991d32223806": {
+        "generated_answer": "Derbyshire",
+        "gold_truth_answer": "North Yorkshire, England"
+    },
+    "5add357f5542992c1e3a2565": {
+        "generated_answer": "plants",
+        "gold_truth_answer": "plants"
+    },
+    "5a8ef7965542997ba9cb3157": {
+        "generated_answer": "Wasserburg am Inn",
+        "gold_truth_answer": "Berlin, Germany"
+    },
+    "5a8d5ec2554299585d9e37c4": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5ae13f7a5542997b2ef7d16d": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5a732a3555429901807daf9d": {
+        "generated_answer": "1966",
+        "gold_truth_answer": "1970"
+    },
+    "5a8ee9d955429917b4a5be26": {
+        "generated_answer": "Document [7](Title: The Cichorieae) The Cichorieae (also called Lactuceae) are a tribe in the plant family Asteraceae that includes 93 genera and more than 1600 sexually reproductive species and more than 7000 apomictic species.",
+        "gold_truth_answer": "Cibotium"
+    },
+    "5a7a00475542996c55b2dccc": {
+        "generated_answer": "Dieter Zorc (16 October 2007)",
+        "gold_truth_answer": "Dieter Zorc"
+    },
+    "5adfc84c5542992d7e9f93cf": {
+        "generated_answer": "Penobscot",
+        "gold_truth_answer": "Waldo County, Maine"
+    },
+    "5ab67e60554299710c8d1eb2": {
+        "generated_answer": "\"On their fifth studio album 'Humanz'.\"",
+        "gold_truth_answer": "28 April 2017"
+    },
+    "5a887fb5554299206df2b2c2": {
+        "generated_answer": "Paterson, New Jersey.",
+        "gold_truth_answer": "Boston"
+    },
+    "5abfdf485542997d642958f8": {
+        "generated_answer": "No",
+        "gold_truth_answer": "yes"
+    },
+    "5ae075565542993d6555eb5a": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5a7a62c35542990783324f3b": {
+        "generated_answer": "Patrice Leconte (born 12 November 1947)",
+        "gold_truth_answer": "Patrice Leconte"
+    },
+    "5ae31fcd554299495565db3e": {
+        "generated_answer": "shrubs",
+        "gold_truth_answer": "flowering plants"
+    },
+    "5ab2d7855542991669774101": {
+        "generated_answer": "While already serving a life sentence,",
+        "gold_truth_answer": "1935August23, 2003"
+    },
+    "5a8f7ace55429918e830d232": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5ade98685542992fa25da7d7": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5adfc154554299025d62a349": {
+        "generated_answer": "One Day",
+        "gold_truth_answer": "One Day"
+    },
+    "5ae375ad5542990afbd1e15e": {
+        "generated_answer": "Louis",
+        "gold_truth_answer": "band"
+    },
+    "5ae818fe55429952e35eaa13": {
+        "generated_answer": "Jessie",
+        "gold_truth_answer": "Jessie"
+    },
+    "5a8ee3085542995a26add554": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5ab2d27e554299194fa93529": {
+        "generated_answer": "Sinaloa",
+        "gold_truth_answer": "Sinaloa"
+    },
+    "5a8adec25542992d82986fbe": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "Brownea"
+    },
+    "5a77ab795542992a6e59df70": {
+        "generated_answer": "June 11, 2016",
+        "gold_truth_answer": "June 11, 1997"
+    },
+    "5a7a600155429941d65f25ee": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "Island County"
+    },
+    "5a7107f65542994082a3e4e4": {
+        "generated_answer": "There is no village named \"Chosmes\" in the provided search results, so the answer is: \"There is no answer.\"",
+        "gold_truth_answer": "32\u00b0 South parallel"
+    },
+    "5ae129e1554299422ee99616": {
+        "generated_answer": "Four",
+        "gold_truth_answer": "Cendrillon"
+    },
+    "5a8c460f5542995e66a4758c": {
+        "generated_answer": "Nigel Godrich",
+        "gold_truth_answer": "Nigel Godrich"
+    },
+    "5a8c3c015542995e66a4756f": {
+        "generated_answer": "Directors",
+        "gold_truth_answer": "film director"
+    },
+    "5ae14a4e55429920d523439c": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "Calendula"
+    },
+    "5a7cd56c55429909bec7682d": {
+        "generated_answer": "Alaska",
+        "gold_truth_answer": "Mesoamerica"
+    },
+    "5a791a8055429907847277b7": {
+        "generated_answer": "There is no information about Atom Egoyan in the provided search results, so it's not possible to determine who is younger, Stanley Kwan or Atom Egoyan.",
+        "gold_truth_answer": "Atom Egoyan"
+    },
+    "5a8b568b55429971feec46e4": {
+        "generated_answer": "Central Gonja district",
+        "gold_truth_answer": "Central Gonja District"
+    },
+    "5abcfae35542993a06baf9cc": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5ae4910d5542995ad6573da2": {
+        "generated_answer": "Directors",
+        "gold_truth_answer": "film director"
+    },
+    "5a74cad75542996c70cfadf0": {
+        "generated_answer": "professional tennis players",
+        "gold_truth_answer": "professional tennis player"
+    },
+    "5a8793a75542996e4f30884b": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5ac0369e554299294b218f55": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5a889e9d5542997e5c09a638": {
+        "generated_answer": "West End Games (WEG) and licensees.",
+        "gold_truth_answer": "West End Games"
+    },
+    "5a79ab765542996c55b2dc30": {
+        "generated_answer": "Bernhard Wicki was born on October 28, 1919, while Lloyd Kaufman's birthdate is not mentioned in the provided search results, so it's impossible to determine who is younger.",
+        "gold_truth_answer": "Lloyd Kaufman"
+    },
+    "5a8773175542993e715abf4b": {
+        "generated_answer": "after dinner drink",
+        "gold_truth_answer": "cocktail"
+    },
+    "5a72bf2055429901807daf3a": {
+        "generated_answer": "Dead Rabbits gang and the John Kinney Gang",
+        "gold_truth_answer": "Dead Rabbits"
+    },
+    "5ae05f2155429924de1b70c6": {
+        "generated_answer": "Andrew McLaglen, Brian Trenchard-Smith, Breck Eisner, Pierre Cor\u00e9, Lekhraj Bhakri, Zolt\u00e1n Korda, Arthur Rosson, Jagatrai Pesumal Advani, Andrew McLaglen",
+        "gold_truth_answer": "Breck Eisner"
+    },
+    "5a8288c055429966c78a6a48": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5a7b5920554299042af8f751": {
+        "generated_answer": "There is no mention of Erich Fromm in the provided search results.",
+        "gold_truth_answer": "Erich Seligmann Fromm"
+    },
+    "5a8d93ad554299653c1aa13d": {
+        "generated_answer": "John Fogell",
+        "gold_truth_answer": "Serri"
+    },
+    "5ab6dc2655429954757d339a": {
+        "generated_answer": "Document [2] (There are at least two recognized species in this genus:) or Document [4] (There are currently 2 recognized species in this genus:)",
+        "gold_truth_answer": "Cissus"
+    },
+    "5abedb215542997ec76fd382": {
+        "generated_answer": "Hawaiian",
+        "gold_truth_answer": "Hawaiian"
+    },
+    "5adf5ebd5542995ec70e8fd8": {
+        "generated_answer": "No",
+        "gold_truth_answer": "no"
+    },
+    "5a7f44ce5542992e7d278cd8": {
+        "generated_answer": "explorer",
+        "gold_truth_answer": "Army officer"
+    },
+    "5ab5b698554299637185c5e3": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5ae7831a55429952e35ea959": {
+        "generated_answer": "Kelly Key brought a differential to join R&B and dance-pop to the mode used by international artists, a novelty in Brazil at that time, with the biggest inspirations the American singers Britney Spears, Jennifer Lopez, Christina Aguilera, Madonna and Janet Jackson, beyond Brazil Luciana Mello and Fernanda Abreu.",
+        "gold_truth_answer": "music"
+    },
+    "5a7744e45542993569682d37": {
+        "generated_answer": "Juan Rulfo (January 17, 1981)",
+        "gold_truth_answer": "Juan Rulfo"
+    },
+    "5add3d4e5542997545bbbceb": {
+        "generated_answer": "Benh Zeitlin.",
+        "gold_truth_answer": "Benh Zeitlin"
+    },
+    "5adfefeb554299603e4183cb": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5ab57610554299637185c5a1": {
+        "generated_answer": "Cleveland Cavaliers",
+        "gold_truth_answer": "Cleveland Cavaliers"
+    },
+    "5ae358c05542990afbd1e10f": {
+        "generated_answer": "There is no answer, as the search results do not mention the 972 unrest in Lithuanian SSR.",
+        "gold_truth_answer": "Romas Kalanta"
+    },
+    "5a7310d65542992359bc3224": {
+        "generated_answer": "Karimloo.",
+        "gold_truth_answer": "Caroline Sheen"
+    },
+    "5ae5c5e35542993aec5ec1d1": {
+        "generated_answer": "Cargo airlines.",
+        "gold_truth_answer": "cargo airline"
+    },
+    "5add5d285542997545bbbd3f": {
+        "generated_answer": "There are about 170 species of Aphelandra.",
+        "gold_truth_answer": "Angraecum"
+    },
+    "5ae22c54554299495565da2a": {
+        "generated_answer": "Sheridan",
+        "gold_truth_answer": "Sheridan"
+    },
+    "5a825cce55429954d2e2eb15": {
+        "generated_answer": "49.25 feet",
+        "gold_truth_answer": "3030 ft"
+    },
+    "5a87263e5542996432c57232": {
+        "generated_answer": "August",
+        "gold_truth_answer": "July"
+    },
+    "5ae6c27f5542991bbc976171": {
+        "generated_answer": "P. G. Wodehouse",
+        "gold_truth_answer": "Bloomsbury Publishing"
+    },
+    "5abf11985542997719eab65e": {
+        "generated_answer": "16 November 1866",
+        "gold_truth_answer": "2 April 1981"
+    },
+    "5a8b0a2555429950cd6afc51": {
+        "generated_answer": "Gaius Furius Pacilus Fusus",
+        "gold_truth_answer": "Lucius Cornelius Sulla Felix"
+    },
+    "5add64645542992200553ae6": {
+        "generated_answer": "California",
+        "gold_truth_answer": "California"
+    },
+    "5ae6dba85542996d980e7c9b": {
+        "generated_answer": "Asia",
+        "gold_truth_answer": "Eurasia"
+    },
+    "5a8a12ae5542992d82986e92": {
+        "generated_answer": "Island",
+        "gold_truth_answer": "Scotland"
+    },
+    "5a7330de5542991f29ee2d4f": {
+        "generated_answer": "The Portuguese Podengo.",
+        "gold_truth_answer": "Portuguese Podengo"
+    },
+    "5a83195a55429954d2e2ec1a": {
+        "generated_answer": "Monty Python comedy troupe, BBC One",
+        "gold_truth_answer": "BBC in 1969"
+    },
+    "5a8ffa715542995651fb5090": {
+        "generated_answer": "Alcatraz",
+        "gold_truth_answer": "federal prison"
+    },
+    "5a7baa5f5542995eb53be98b": {
+        "generated_answer": "December 13, 2015",
+        "gold_truth_answer": "September 27, 2015"
+    },
+    "5a871e855542991e771816d3": {
+        "generated_answer": "Desperate Housewives",
+        "gold_truth_answer": "Desperate Housewives"
+    },
+    "5a89202e5542993b751ca915": {
+        "generated_answer": "P\u00e1lpusztai",
+        "gold_truth_answer": "\"Brevibacterium linens\""
+    },
+    "5ae1d55a554299234fd04316": {
+        "generated_answer": "1961",
+        "gold_truth_answer": "1961"
+    },
+    "5a8cf2ee554299585d9e377d": {
+        "generated_answer": "Jack Louis Del Rio Jr.",
+        "gold_truth_answer": "Jack Del Rio"
+    },
+    "5ae745595542997b22f6a66c": {
+        "generated_answer": "actor",
+        "gold_truth_answer": "Dr. Drew Alister"
+    },
+    "5a8925d4554299669944a4c9": {
+        "generated_answer": "19",
+        "gold_truth_answer": "13 days"
+    },
+    "5ab9222e554299753720f722": {
+        "generated_answer": "The Reflektor Tapes",
+        "gold_truth_answer": "The Reflektor Tapes"
+    },
+    "5ab51cf655429942dd415fed": {
+        "generated_answer": "Broken Bridges",
+        "gold_truth_answer": "Deep Red"
+    },
+    "5a7b536b5542995eb53be918": {
+        "generated_answer": "1869",
+        "gold_truth_answer": "1901"
+    },
+    "5a8df2e755429917b4a5bcef": {
+        "generated_answer": "Petter Venner\u00f8d and Svend Wam",
+        "gold_truth_answer": "Kris Isacsson"
+    },
+    "5ab437c15542996a3a969f5e": {
+        "generated_answer": "4",
+        "gold_truth_answer": "Their biggest hit was \"Tall Cool One\", first released in 1959"
+    },
+    "5ae7aae35542993210983ee6": {
+        "generated_answer": "Donald",
+        "gold_truth_answer": "Donna"
+    },
+    "5a7d264e5542995ed0d16608": {
+        "generated_answer": "July 16, 1966",
+        "gold_truth_answer": "October 17, 1972"
+    },
+    "5ab8ef3955429934fafe6e1a": {
+        "generated_answer": "Document [5](Title: Grammy Award for Best Instrumental Performance)",
+        "gold_truth_answer": "Gentle on My Mind"
+    },
+    "5adfef32554299603e4183ca": {
+        "generated_answer": "Coronation Street",
+        "gold_truth_answer": "Coronation Street"
+    },
+    "5ae22c895542996483e64923": {
+        "generated_answer": "\"Philadelphia Story\"",
+        "gold_truth_answer": "Frosty the Snowman"
+    },
+    "5ae77cd75542997b22f6a796": {
+        "generated_answer": "Garden City High School",
+        "gold_truth_answer": "Garden City High School"
+    },
+    "5ac4414c5542997ea680ca55": {
+        "generated_answer": "St. John's water dog.",
+        "gold_truth_answer": "St. John's water dog"
+    },
+    "5ae65e035542996d980e7b19": {
+        "generated_answer": "CNN",
+        "gold_truth_answer": "NBC News"
+    },
+    "5ab209435542993be8fa98bb": {
+        "generated_answer": "The Third Ashanti Expedition, also known as the War of the Golden Stool, in what is now the Republic of Ghana.",
+        "gold_truth_answer": "West Africa"
+    },
+    "5a72134a55429971e9dc9246": {
+        "generated_answer": "New!",
+        "gold_truth_answer": "Darling Media is an independent, quarterly print women\u2019s magazine with a \u201cno-retouching\u201d policy."
+    },
+    "5addc79d5542995b365fab7b": {
+        "generated_answer": "To SquarePants or Not to SquarePants",
+        "gold_truth_answer": "To SquarePants or Not to SquarePants"
+    },
+    "5a7786cd5542997042120a94": {
+        "generated_answer": "Glassroth v. Moore, CV-01-T-1268-N.",
+        "gold_truth_answer": "Glassroth v. Moore"
+    },
+    "5a849cef5542992a431d1a7b": {
+        "generated_answer": "footballer",
+        "gold_truth_answer": "fencer"
+    },
+    "5ae200655542994d89d5b2f4": {
+        "generated_answer": "The search results do not provide any information about the number of students enrolled in Chris Barnes' high school.",
+        "gold_truth_answer": "1,840 students"
+    },
+    "5ab3a84b554299233954ff7b": {
+        "generated_answer": "2012",
+        "gold_truth_answer": "1974"
+    },
+    "5a9097755542995651fb51a7": {
+        "generated_answer": "134 performances",
+        "gold_truth_answer": "more than sixty years"
+    },
+    "5adddb6e5542992200553b62": {
+        "generated_answer": "Basketball",
+        "gold_truth_answer": "poker"
+    },
+    "5add425d5542992c1e3a2586": {
+        "generated_answer": "Whitey Morgan and the 78's.",
+        "gold_truth_answer": "Son Volt"
+    },
+    "5a90207c55429916514e7417": {
+        "generated_answer": "None",
+        "gold_truth_answer": "Anton Chigurh"
+    },
+    "5a8aecb255429970aeb70333": {
+        "generated_answer": "None",
+        "gold_truth_answer": "British Special Forces"
+    },
+    "5a7a030c5542996a35c17077": {
+        "generated_answer": "Central Avenue",
+        "gold_truth_answer": "State Street"
+    },
+    "5a744f7855429979e28828e7": {
+        "generated_answer": "Adam Sandler",
+        "gold_truth_answer": "Roark Grant Critchlow"
+    },
+    "5ac4f55a5542995c82c4ad86": {
+        "generated_answer": "\"Eternal E\"",
+        "gold_truth_answer": "\"Straight Outta Compton\""
+    },
+    "5a7b6d825542997c3ec9716a": {
+        "generated_answer": "Liberal Party",
+        "gold_truth_answer": "1945"
+    },
+    "5ab9d9865542994dbf019860": {
+        "generated_answer": "Bede.",
+        "gold_truth_answer": "Bede"
+    },
+    "5a7c51465542990527d5548c": {
+        "generated_answer": "Congressional Caucus on International Exchange and Study",
+        "gold_truth_answer": "Fulbright Program"
+    },
+    "5ac28c755542992f1f2b38f9": {
+        "generated_answer": "Rome",
+        "gold_truth_answer": "Lazio region"
+    },
+    "5a8a177e55429970aeb7024c": {
+        "generated_answer": "Nevada",
+        "gold_truth_answer": "New Jersey"
+    },
+    "5a86f779554299211dda2b6f": {
+        "generated_answer": "1955",
+        "gold_truth_answer": "1955"
+    },
+    "5abc52785542996583600441": {
+        "generated_answer": "Steven Spielberg and Tom Hanks",
+        "gold_truth_answer": "Steven Spielberg and Tom Hanks"
+    },
+    "5ab9930f554299743d22eb7b": {
+        "generated_answer": "Martin Luther King III",
+        "gold_truth_answer": "Martin Luther King III"
+    },
+    "5a8ba6fd554299240d9c2062": {
+        "generated_answer": "Gravel v. United States",
+        "gold_truth_answer": "Gravel v. United States"
+    },
+    "5a8195f35542995ce29dcc0c": {
+        "generated_answer": "Estadio Ciudad de La Plata in La Plata, Argentina, owned by the Government of Argentina",
+        "gold_truth_answer": "Province of Buenos Aires"
+    },
+    "5ade529c5542997c77adedf8": {
+        "generated_answer": "Rin Tin Tin",
+        "gold_truth_answer": "Rin Tin Tin"
+    },
+    "5a8355185542996488c2e414": {
+        "generated_answer": "George Armstrong Custer",
+        "gold_truth_answer": "Battle of Gettysburg"
+    },
+    "5ab6b6645542995eadef0067": {
+        "generated_answer": "1969",
+        "gold_truth_answer": "1961"
+    },
+    "5a9078505542990a9849365b": {
+        "generated_answer": "None",
+        "gold_truth_answer": "Jonny Buckland"
+    },
+    "5a89d983554299669944a5c8": {
+        "generated_answer": "Francesca Schiavone",
+        "gold_truth_answer": "Francesca Schiavone"
+    },
+    "5a8488bd5542992ef85e241d": {
+        "generated_answer": "An Apple iPod 4G with an HP logo on the back, distributed through HP.",
+        "gold_truth_answer": "a portable media player"
+    },
+    "5abc099e55429965836003f9": {
+        "generated_answer": "Moon Chae-won and Yoo Yeon-seok",
+        "gold_truth_answer": "Ahn Yeon-seok"
+    },
+    "5ac0ee5b554299012d1db658": {
+        "generated_answer": "The town of Lensk is located on the left bank of the Lena River, approximately 840 km west of Yakutsk, the capital of the Sakha Republic, Russia. It is the administrative center of Lensky District.",
+        "gold_truth_answer": "Sakha Republic"
+    },
+    "5ab6c1e8554299110f219a60": {
+        "generated_answer": "Gerald Dworkin",
+        "gold_truth_answer": "philosopher"
+    },
+    "5abe88335542993f32c2a159": {
+        "generated_answer": "The compass was made for navigation.",
+        "gold_truth_answer": "Supported by a number of academics and Labour politicians unhappy with the political direction of prime minister Tony Blair this was the first attempt by Compass to develop a more coherent and radical programme for a Labour government."
+    },
+    "5a754bfa5542993748c89820": {
+        "generated_answer": "Paulie Z",
+        "gold_truth_answer": "Omar Trevi\u00f1o Morales"
+    },
+    "5abeea3d5542997719eab5f8": {
+        "generated_answer": "Gotas de Rap",
+        "gold_truth_answer": "EXID"
+    },
+    "5abb7d485542993f40c73b0d": {
+        "generated_answer": "No one was born November 27, 1967.",
+        "gold_truth_answer": "Kapoor (born 27 November 1967)"
+    },
+    "5ab5e1e45542992aa134a3c2": {
+        "generated_answer": "Albums",
+        "gold_truth_answer": "magazine"
+    },
+    "5ae2b2765542994d89d5b433": {
+        "generated_answer": "Henderson, North Carolina, Virginia, Richmond, California, Middlesex, New Jersey",
+        "gold_truth_answer": "Prince George's County"
+    },
+    "5ae40d9d5542996836b02c2a": {
+        "generated_answer": "The Officers' Association (OA)",
+        "gold_truth_answer": "Of a Revolution"
+    },
+    "5ab9b6f2554299743d22ebc1": {
+        "generated_answer": "Mychal Thompson",
+        "gold_truth_answer": "Mychal Thompson"
+    },
+    "5ade55a155429975fa854ead": {
+        "generated_answer": "Gordon Moore and Robert Noyce",
+        "gold_truth_answer": "Gordon Moore"
+    },
+    "5abc07be55429965836003f0": {
+        "generated_answer": "France, Brittany; off the coast of Brittany in the \"d\u00e9partement\" of Morbihan; a neighborhood of South Beach in Miami Beach, Florida; a large suburb of Leeds city centre, West Yorkshire, England; in Orange County, Florida, United States; a large island in the English Lake District; a 982-acre island park in the Detroit River, between the United States mainland and Canada; an uninhabited island off the coast of Labrador and north of Newfoundland; in Lancaster County, Virginia, on the Rappahannock River; a historic plantation house near Lancaster, Lancaster County, Virginia.",
+        "gold_truth_answer": "Newfoundland"
+    },
+    "5ae0ea735542990adbacf6c7": {
+        "generated_answer": "I couldn't find anyone named Kate Bekinsale in the provided search results. Since Kate Beckinsale is a well-known actress, it's likely that she is not included in the given search results. If you meant to ask about one of the Kates mentioned in the search results, please let me know and I'll be happy to provide the answer.",
+        "gold_truth_answer": "film"
+    },
+    "5abc2e0b554299114383a0f5": {
+        "generated_answer": "American filmmaker, actor, writer, producer, and director.",
+        "gold_truth_answer": "an Italian swindler and con artist"
+    },
+    "5a807c52554299485f598610": {
+        "generated_answer": "Earl",
+        "gold_truth_answer": "Earl Godwin was later restored to royal favour, and his lands returned, while Odda received a new earldom in the west midlands in compensation."
+    },
+    "5ac12fc25542992a796dee0b": {
+        "generated_answer": "Bamboo",
+        "gold_truth_answer": "plant"
+    },
+    "5ae5c8995542996de7b71a1b": {
+        "generated_answer": "Kevin Magee",
+        "gold_truth_answer": "Martha MacCallum"
+    },
+    "5ab286ea554299449642c8e3": {
+        "generated_answer": "the Goddess of Pop",
+        "gold_truth_answer": "Goddess of Pop"
+    },
+    "5ae5409e5542992663a4f1a1": {
+        "generated_answer": "author, journalist, documentary",
+        "gold_truth_answer": "Afghan refugees"
+    },
+    "5a9042ed55429916514e7445": {
+        "generated_answer": "No",
+        "gold_truth_answer": "yes"
+    },
+    "5ab647575542995eadeeff98": {
+        "generated_answer": "magazines",
+        "gold_truth_answer": "magazine"
+    },
+    "5ac2c9ae554299657fa2905e": {
+        "generated_answer": "A 52-gun third-rate ship of the line, in service with the Royal Navy from 1660 to 1690. Alternatively, a battleship built after 1906 that was one of the Royal Navy's most famous vessels.",
+        "gold_truth_answer": "battleship"
+    },
+    "5ac2c6f3554299657fa29047": {
+        "generated_answer": "Young Justice is a fictional DC Comics superhero team consisting of teenaged heroes.",
+        "gold_truth_answer": "animated television series"
+    },
+    "5add57ad5542992200553ac1": {
+        "generated_answer": "Cycad",
+        "gold_truth_answer": "plants"
+    },
+    "5aba762f55429955dce3ee3e": {
+        "generated_answer": "This answer is not provided in the given search results.",
+        "gold_truth_answer": "in 1960"
+    },
+    "5ab908f455429916710eb0e7": {
+        "generated_answer": "Voyer",
+        "gold_truth_answer": "Adult Swim"
+    },
+    "5ae0ee0b5542990adbacf6d8": {
+        "generated_answer": "American film director, screenwriter, producer, cinematographer, editor, and photographer.",
+        "gold_truth_answer": "film"
+    },
+    "5a7173b45542994082a3e83c": {
+        "generated_answer": "Atlanta",
+        "gold_truth_answer": "New York City"
+    },
+    "5a7713f355429966f1a36c22": {
+        "generated_answer": "Tenerife airport",
+        "gold_truth_answer": "on the Spanish island of Tenerife, Canary Islands"
+    },
+    "5ac3a6e55542993915413889": {
+        "generated_answer": "1973\u22122013",
+        "gold_truth_answer": "2015"
+    },
+    "5ae61c605542996de7b71b66": {
+        "generated_answer": "Southern Africa, to the east of Angola.",
+        "gold_truth_answer": "south central Africa"
+    },
+    "5a73a7d155429978a71e9069": {
+        "generated_answer": "There is no information in the search results about Simister, so the answer cannot be determined.",
+        "gold_truth_answer": "River Irwell"
+    },
+    "5ab6e31f554299710c8d1f97": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "Princess Sophie of Hohenberg"
+    },
+    "5a8398da5542990548d0b1fa": {
+        "generated_answer": "Pavel Bure",
+        "gold_truth_answer": "Antoine Carr"
+    },
+    "5abd359a5542993062266bf2": {
+        "generated_answer": "retired Soviet freestyle swimmer and a fitness coach for the New Jersey Devils of the NHL.",
+        "gold_truth_answer": "freestyle swimmer and a fitness coach"
+    },
+    "5abd38355542993062266c1b": {
+        "generated_answer": "Not found.",
+        "gold_truth_answer": "an American college basketball coach"
+    },
+    "5a75dc465542992db9473702": {
+        "generated_answer": "Margaret Mary Duffy",
+        "gold_truth_answer": "a prostitute"
+    },
+    "5a848f245542997b5ce3feb8": {
+        "generated_answer": "Not botanically related.",
+        "gold_truth_answer": "genus of perennial plants"
+    },
+    "5abbd225554299660624172d": {
+        "generated_answer": "This is a selected list of feature films originally released and/or distributed by Miramax.",
+        "gold_truth_answer": "Miramax Films"
+    },
+    "5a8b70bf5542995d1e6f1392": {
+        "generated_answer": "UTA's S Line",
+        "gold_truth_answer": "electricity"
+    },
+    "5ae0f6b45542990adbacf6f3": {
+        "generated_answer": "None of the provided search results mention \"Urban Meyer\", so the answer is: None.",
+        "gold_truth_answer": "coach"
+    },
+    "5ae0ddb05542990adbacf68c": {
+        "generated_answer": "A fast food restaurant, often a chain, that serves (mainly) fried chicken\u2014usually chunks of chicken, battered or breaded and deep-fried\u2014as opposed to other ways of cooking chicken such as broiling or roasting.",
+        "gold_truth_answer": "song"
+    },
+    "5ae0d28d554299603e418465": {
+        "generated_answer": "American novelist, playwright, and screenwriter.",
+        "gold_truth_answer": "American"
+    },
+    "5ae5fe985542996de7b71ac3": {
+        "generated_answer": "Central Mexico in the 14th, 15th, and 16th centuries, calling themselves Mexica (pronounced [me\u02c8\u0283ika\u0294]) and having an ancestral homeland of Aztlan, which may have been located in northwestern Mexico or the southwest US.",
+        "gold_truth_answer": "a sub-valley of the Valley of Mexico"
+    },
+    "5aba607555429901930fa79f": {
+        "generated_answer": "A cousin is a relative with whom a person shares one or more common ancestors.",
+        "gold_truth_answer": "Mohamed Sissoko"
+    },
+    "5a7151965542994082a3e7c5": {
+        "generated_answer": "Ermer Robinson",
+        "gold_truth_answer": "Magic Johnson"
+    },
+    "5abbd1055542993f40c73bb1": {
+        "generated_answer": "Delaware",
+        "gold_truth_answer": "Arizona"
+    },
+    "5ade206e55429975fa854e83": {
+        "generated_answer": "The Northern Territory of Australia and other locations.",
+        "gold_truth_answer": "Australia"
+    },
+    "5abc0aae5542996583600401": {
+        "generated_answer": "Invicta France and Caisse d'\u00c9pargne, the latter being one of France's largest banks.",
+        "gold_truth_answer": "Invicta France"
+    },
+    "5ac2c8e6554299657fa29055": {
+        "generated_answer": "adventure drama",
+        "gold_truth_answer": "drama"
+    },
+    "5ae0dc47554299603e418480": {
+        "generated_answer": "An American action-comedy television series that aired on CBS from January 26, 1979, to February 8, 1985.",
+        "gold_truth_answer": "series"
+    },
+    "5adc432c5542994650320cc0": {
+        "generated_answer": "The Cantabrian Sea.",
+        "gold_truth_answer": "the north Atlantic Ocean"
+    },
+    "5ae0df0f5542990adbacf698": {
+        "generated_answer": "Sportsklubben Rollon is a Norwegian sports club from the city of \u00c5lesund.",
+        "gold_truth_answer": "unit"
+    },
+    "5a7d91b55542997cc2c4745e": {
+        "generated_answer": "Las Vegas, Nevada",
+        "gold_truth_answer": "Canadian serial killer"
+    },
+    "5ab430bd55429942dd415ec9": {
+        "generated_answer": "Dutch surname.",
+        "gold_truth_answer": "Dutch names"
+    },
+    "5ade0ec15542995b365fabf7": {
+        "generated_answer": "they wore dresses",
+        "gold_truth_answer": "on Wednesdays and Thursdays at 22:00"
+    },
+    "5a85b0ad5542997175ce1ff5": {
+        "generated_answer": "Edmond James de Rothschild, John Earle Jacobs, John Patchett, Charles Krug, Dr Tom Cullity",
+        "gold_truth_answer": "Philippe de Rothschild"
+    },
+    "5a75d7a25542992db94736e8": {
+        "generated_answer": "The athletic teams that represent the University of Oklahoma, located in Norman.",
+        "gold_truth_answer": "settlers"
+    },
+    "5ae0dd57554299603e418482": {
+        "generated_answer": "Detroit, Michigan.",
+        "gold_truth_answer": "Detroit"
+    },
+    "5ab9240a55429919ba4e23d2": {
+        "generated_answer": "There is no direct answer to this question in the provided search results, as the term \"The Musical\" is not specified in any of the documents. However, based on the document titles and descriptions, several people and films that were involved in musicals are listed, including Shirley Temple, Glenn Tryon, Evelyn Brent, and Robert Montgomery, as well as films such as \"Broadway\", \"Broadway Nights\", \"Made on Broadway\", and \"High School Musical\".",
+        "gold_truth_answer": "South Korean actress"
+    },
+    "5ac53c4a5542994611c8b458": {
+        "generated_answer": "1987",
+        "gold_truth_answer": "1987"
+    },
+    "5ae52d0a5542992663a4f135": {
+        "generated_answer": "Japan",
+        "gold_truth_answer": "Japan"
+    },
+    "5ac0b5a95542992a796ded6a": {
+        "generated_answer": "Nevada",
+        "gold_truth_answer": "Clark County"
+    },
+    "5ac3a6805542993915413885": {
+        "generated_answer": "1985",
+        "gold_truth_answer": "1987"
+    },
+    "5a81cc2355429926c1cdad7d": {
+        "generated_answer": "1054",
+        "gold_truth_answer": "Hugh Lane died on board the RMS Lusitania."
+    },
+    "5abc3137554299114383a0ff": {
+        "generated_answer": "range of automobiles manufactured by Ford Motor Company for the 1965 to 1986 model years",
+        "gold_truth_answer": "Ford Torino"
+    },
+    "5ab9578f554299131ca422fc": {
+        "generated_answer": "Cow and Chicken are siblings.",
+        "gold_truth_answer": "animal siblings"
+    },
+    "5abd38945542993062266c1f": {
+        "generated_answer": "Omaros\u00e9 On\u00e9e Manigault-Newman",
+        "gold_truth_answer": "American political aide in the White House"
+    },
+    "5abc0bc1554299658360040b": {
+        "generated_answer": "There is no Ed Mangano mentioned in the provided search results, so I cannot provide an answer.",
+        "gold_truth_answer": "defeated incumbent Thomas R. Suozzi"
+    },
+    "5ae0ee895542990adbacf6db": {
+        "generated_answer": "a professional wrestling event, produced every January since 1988 by professional wrestling promotion WWE.",
+        "gold_truth_answer": "wrestling"
+    },
+    "5a82548f554299676cceb26a": {
+        "generated_answer": "French R'n'B singer and worldwide lifestyle magazine of French origin.",
+        "gold_truth_answer": "magazine"
+    },
+    "5ab9283d55429919ba4e23db": {
+        "generated_answer": "Florence Pretz",
+        "gold_truth_answer": "television actor"
+    },
+    "5ac11988554299012d1db699": {
+        "generated_answer": "City or village.",
+        "gold_truth_answer": "Municipality"
+    },
+    "5ae53f955542992663a4f19d": {
+        "generated_answer": "George Naea had one mother, who died while he was in prison on Robben Island.",
+        "gold_truth_answer": "Queen Emma of Hawaii"
+    },
+    "5ab702615542991d32223741": {
+        "generated_answer": "Alexander Zhulin",
+        "gold_truth_answer": "Alexander Zhulin"
+    },
+    "5adea8155542992fa25da7f8": {
+        "generated_answer": "8 December 1935",
+        "gold_truth_answer": "Ivanhoe"
+    },
+    "5adfc9d155429942ec259b47": {
+        "generated_answer": "Planet Hollywood Las Vegas on the Las Vegas Strip.",
+        "gold_truth_answer": "Caesars Entertainment Corporation"
+    },
+    "5adfcbed554299025d62a35a": {
+        "generated_answer": "Ellisville, Mississippi",
+        "gold_truth_answer": "Ellisville, Mississippi"
+    },
+    "5adc4047554299438c868d95": {
+        "generated_answer": "A diamond and a military rank in Japan.",
+        "gold_truth_answer": "board game"
+    },
+    "5ab5f4cc554299110f219994": {
+        "generated_answer": "Football",
+        "gold_truth_answer": "Basketball"
+    },
+    "5ac21bdf5542992f1f2b3801": {
+        "generated_answer": "The IRA, specifically Patrick Magee.",
+        "gold_truth_answer": "Patrick Magee"
+    },
+    "5abbbd44554299642a094b24": {
+        "generated_answer": "Penn Jillette and Michael Goudeau, produced by \"Happy\" Jack Landreth and Patrick DiFazio.",
+        "gold_truth_answer": "Penn Fraser Jillette"
+    },
+    "5a7f427c5542992e7d278ccf": {
+        "generated_answer": "H.T. Wells",
+        "gold_truth_answer": "Holy Roman Emperor Maximilian I"
+    },
+    "5a791d2a55429907847277bf": {
+        "generated_answer": "Brooke Kelaart",
+        "gold_truth_answer": "Henrik Sedin"
+    },
+    "5abb7f1b5542993f40c73b13": {
+        "generated_answer": "Alan Monaghan",
+        "gold_truth_answer": "is an Irish novelist"
+    },
+    "5a8ffc825542995651fb5094": {
+        "generated_answer": "mountains",
+        "gold_truth_answer": "mountain"
+    },
+    "5ae2c1be554299492dc91c5f": {
+        "generated_answer": "Corbin Bleu, Iron Maiden.",
+        "gold_truth_answer": "Bruce Dickinson"
+    },
+    "5abbd1445542993f40c73bb5": {
+        "generated_answer": "American.",
+        "gold_truth_answer": "British"
+    },
+    "5ae13d6e55429901ffe4ae1c": {
+        "generated_answer": "no",
+        "gold_truth_answer": "yes"
+    },
+    "5abd88d95542993062266cc0": {
+        "generated_answer": "A genus of plants in the Phytolaccaceae family, and a genus of flowering plants in the family Apocynaceae, respectively.",
+        "gold_truth_answer": "genus of plants"
+    },
+    "5ae1472955429920d523437a": {
+        "generated_answer": "noise rock bands",
+        "gold_truth_answer": "magazine"
+    },
+    "5ac2c807554299657fa29050": {
+        "generated_answer": "Gene Rayburn (December 22, 1917 \u2013 November 29, 1999) was an American radio and television personality. He is best known as the host of various editions of the popular American television game show \"Match Game\" for over two decades.",
+        "gold_truth_answer": "American radio and television personality"
+    },
+    "5ac1ac9555429963665198df": {
+        "generated_answer": "The Welsh Government.",
+        "gold_truth_answer": "Parliament"
+    },
+    "5ab703ec5542991d3222374f": {
+        "generated_answer": "Amanda Ghost, Coldplay, Silent Civilian, The Dream Syndicate, English singer-songwriter, British rock band, metalcore music group, alternative rock band.",
+        "gold_truth_answer": "Parlophone"
+    },
+    "5ade9eb055429939a52fe909": {
+        "generated_answer": "Born Sinner",
+        "gold_truth_answer": "Born Sinner"
+    },
+    "5a813bef55429938b6142307": {
+        "generated_answer": "Valdemar I of Denmark",
+        "gold_truth_answer": "Valdemar I of Denmark"
+    },
+    "5a8b34d855429950cd6afc74": {
+        "generated_answer": "Jack Hildyard",
+        "gold_truth_answer": "Jorge Fons"
+    },
+    "5a7ca0c055429935c91b526c": {
+        "generated_answer": "Vietnam",
+        "gold_truth_answer": "Russellville, Alabama"
+    },
+    "5a8fc7a355429933b8a2045b": {
+        "generated_answer": "Illinois",
+        "gold_truth_answer": "Illinois"
+    },
+    "5ae5d10155429929b08079b8": {
+        "generated_answer": "2006",
+        "gold_truth_answer": "2007"
+    },
+    "5a86e0a95542996432c57202": {
+        "generated_answer": "Cleveland, Ohio.",
+        "gold_truth_answer": "Cleveland, Ohio"
+    },
+    "5ade2d5955429939a52fe851": {
+        "generated_answer": "Tamil",
+        "gold_truth_answer": "Tamil Nadu"
+    },
+    "5a7b536d5542992d025e6802": {
+        "generated_answer": "Bombay",
+        "gold_truth_answer": "Enthiran"
+    },
+    "5ab9ab36554299131ca423bf": {
+        "generated_answer": "Summer Universiade",
+        "gold_truth_answer": "1999 Summer Universiade"
+    },
+    "5a839d6d554299123d8c216b": {
+        "generated_answer": "Alice Faye",
+        "gold_truth_answer": "Tony Martin"
+    },
+    "5a7c18cd5542990527d5544f": {
+        "generated_answer": "7\u20133",
+        "gold_truth_answer": "7\u20133"
+    },
+    "5ae7e9f65542994a481bbe11": {
+        "generated_answer": "December 24, 1958",
+        "gold_truth_answer": "August 14, 1959"
+    },
+    "5ab69af85542995eadef0032": {
+        "generated_answer": "\"Farewell My Love\"",
+        "gold_truth_answer": "In Our Lifetime"
+    },
+    "5a8f8d2555429918e830d25e": {
+        "generated_answer": "John Allen Amos Jr.",
+        "gold_truth_answer": "Don Coscarelli"
+    },
+    "5adc1fbe55429944faac2431": {
+        "generated_answer": "Alice in Chains",
+        "gold_truth_answer": "Alice in Chains"
+    },
+    "5a7123595542994082a3e5c7": {
+        "generated_answer": "Lotte Lenya",
+        "gold_truth_answer": "Lotte Lenya"
+    },
+    "5ae7886c5542994a481bbd6e": {
+        "generated_answer": "He Was Wrong (2007)",
+        "gold_truth_answer": "Bury My Heart at Wounded Knee"
+    },
+    "5a85729e5542997b5ce3fffa": {
+        "generated_answer": "bronze",
+        "gold_truth_answer": "silver medal"
+    },
+    "5a7e7d7f5542997cc2c47552": {
+        "generated_answer": "Georgia Brown",
+        "gold_truth_answer": "Georgia Brown"
+    },
+    "5ae7e698554299540e5a5685": {
+        "generated_answer": "1950",
+        "gold_truth_answer": "1950"
+    },
+    "5a7aaaa8554299042af8f687": {
+        "generated_answer": "March 2, 1962",
+        "gold_truth_answer": "March 2, 1962"
+    },
+    "5a79e8b5554299029c4b5f86": {
+        "generated_answer": "Guinness Peat Aviation",
+        "gold_truth_answer": "Guinness Peat Aviation"
+    },
+    "5ab9bb04554299131ca423e3": {
+        "generated_answer": "Outkast",
+        "gold_truth_answer": "2003"
+    },
+    "5a89d93c55429946c8d6e9e1": {
+        "generated_answer": "Princetown",
+        "gold_truth_answer": "Princetown"
+    },
+    "5adddc4d5542997dc7907064": {
+        "generated_answer": "Edwards v. Aguillard",
+        "gold_truth_answer": "Edwards v. Aguillard"
+    },
+    "5a8000fd55429969796c1b95": {
+        "generated_answer": "2008",
+        "gold_truth_answer": "2008"
+    },
+    "5ae13d375542997b2ef7d152": {
+        "generated_answer": "November 23, 1999",
+        "gold_truth_answer": "November 23, 1999"
+    },
+    "5a7ca513554299683c1c6322": {
+        "generated_answer": "Times Beach",
+        "gold_truth_answer": "Times Beach"
+    },
+    "5ac199955542994ab5c67d8c": {
+        "generated_answer": "Harper's Bazaar",
+        "gold_truth_answer": "Harper's Bazaar"
+    },
+    "5adccb8655429947343537a4": {
+        "generated_answer": "2011",
+        "gold_truth_answer": "2005 season"
+    },
+    "5abaee145542992ccd8e7e5e": {
+        "generated_answer": "Jay-Z",
+        "gold_truth_answer": "Jay-Z"
+    },
+    "5abfbde35542997ec76fd444": {
+        "generated_answer": "Is This the Life We Really Want? is the fifth studio album by English rock musician and former Pink Floyd bassist and vocalist Roger Waters, it was his first studio album in 12 years since \u00c7a Ira, is the fourth studio album by Waters, it is an album, not an opera.",
+        "gold_truth_answer": "three"
+    },
+    "5ab1f95f554299340b52544a": {
+        "generated_answer": "September 24, 1987",
+        "gold_truth_answer": "January 24, 2010"
+    },
+    "5a7632725542994ccc91870d": {
+        "generated_answer": "\"In da Club\"",
+        "gold_truth_answer": "In da Club"
+    },
+    "5ab74241554299110f219ae4": {
+        "generated_answer": "Lee Mendelson and Bill Melendez",
+        "gold_truth_answer": "Charles M. Schulz"
+    },
+    "5add260d5542992ae4cec4ac": {
+        "generated_answer": "The University of Maine at Augusta",
+        "gold_truth_answer": "University of Maine at Augusta (UMA)"
+    },
+    "5ae11b7f55429901ffe4ad92": {
+        "generated_answer": "Navy",
+        "gold_truth_answer": "Navy"
+    },
+    "5a824a20554299676cceb24b": {
+        "generated_answer": "The Seven Years' War",
+        "gold_truth_answer": "Seven Years' War"
+    },
+    "5a8ca64d5542996e8ac88b03": {
+        "generated_answer": "Wyandotte",
+        "gold_truth_answer": "Johnson County"
+    },
+    "5a8a28205542996c9b8d5e20": {
+        "generated_answer": "1881",
+        "gold_truth_answer": "1865"
+    },
+    "5a7f843c55429969796c1a86": {
+        "generated_answer": "U-Know",
+        "gold_truth_answer": "Kai"
+    },
+    "5ab85e3b55429919ba4e22cd": {
+        "generated_answer": "April 1, 2005",
+        "gold_truth_answer": "April 1, 2005"
+    },
+    "5abfc0365542997ec76fd44a": {
+        "generated_answer": "seven",
+        "gold_truth_answer": "seven"
+    },
+    "5ae42b735542995ad6573d10": {
+        "generated_answer": "Daphne",
+        "gold_truth_answer": "Scooby-Doo"
+    },
+    "5a83c27f554299123d8c21ab": {
+        "generated_answer": "New Zealand",
+        "gold_truth_answer": "New Zealand"
+    },
+    "5a80c2475542992bc0c4a818": {
+        "generated_answer": "The Covenant",
+        "gold_truth_answer": "The Covenant"
+    },
+    "5a7e41885542991319bc9452": {
+        "generated_answer": "Boston, Massachusetts",
+        "gold_truth_answer": "Boston, Massachusetts"
+    },
+    "5ae0df9555429924de1b71bd": {
+        "generated_answer": "Sunny Anderson, Jeff Mauro and Marcela Valladolid, Katie Lee, and Iron Chef Geoffrey Zakarian.",
+        "gold_truth_answer": "Sunny Anderson"
+    },
+    "5a78bfc0554299029c4b5e78": {
+        "generated_answer": "Lil Jon.",
+        "gold_truth_answer": "College Park"
+    },
+    "5ac534cf5542994611c8b42c": {
+        "generated_answer": "Going-to-the-Sun Road.",
+        "gold_truth_answer": "Going-to-the-Sun Road"
+    },
+    "5ab58ca35542997d4ad1f178": {
+        "generated_answer": "Bad Blood",
+        "gold_truth_answer": "Bad Blood"
+    },
+    "5ac1a2e75542994ab5c67dae": {
+        "generated_answer": "UEFA Champions League",
+        "gold_truth_answer": "European Champion Clubs' Cup"
+    },
+    "5ae4b55e5542995dadf243ca": {
+        "generated_answer": "1956",
+        "gold_truth_answer": "1956"
+    },
+    "5a74c84d55429974ef308c60": {
+        "generated_answer": "Sweyn II of Denmark",
+        "gold_truth_answer": "the son of Ulf Jarl"
+    },
+    "5a7c65055542996dd594b914": {
+        "generated_answer": "In 2016, 225 Fairchild Swearingen Metroliners were in airline service.",
+        "gold_truth_answer": "15.925 million"
+    },
+    "5ac3bd5c554299391541392f": {
+        "generated_answer": "Sarah Merrels",
+        "gold_truth_answer": "Mark Jansen"
+    },
+    "5a8f658b5542992414482aaf": {
+        "generated_answer": "Canada",
+        "gold_truth_answer": "France"
+    },
+    "5abd05b9554299700f9d7965": {
+        "generated_answer": "no",
+        "gold_truth_answer": "yes"
+    },
+    "5ac11e84554299294b2190aa": {
+        "generated_answer": "Being the queen of item songs and the song \"Munni Badnaam Hui\" from \"Dabangg\".",
+        "gold_truth_answer": "her deep contralto"
+    },
+    "5a8622ae554299211dda2a7e": {
+        "generated_answer": "16 April 1922",
+        "gold_truth_answer": "1949"
+    },
+    "5ae6529a55429929b0807b32": {
+        "generated_answer": "reality television series",
+        "gold_truth_answer": "American reality television series"
+    },
+    "5a7557d75542992d0ec05f68": {
+        "generated_answer": "David Arquette, Neve Campbell, Courteney Cox, Sarah Michelle Gellar, Jamie Kennedy, Laurie Metcalf",
+        "gold_truth_answer": "Laurie Metcalf"
+    },
+    "5adff75b55429925eb1afbab": {
+        "generated_answer": "October 22, 1959",
+        "gold_truth_answer": "September 12, 1959"
+    },
+    "5a8191bc554299260e20a298": {
+        "generated_answer": "The Greyhound.",
+        "gold_truth_answer": "greyhound"
+    },
+    "5a771f3b55429966f1a36c83": {
+        "generated_answer": "There is no Amy Mizzi or Isabel Lucas mentioned in the provided search results, so the question cannot be answered based on the given information.",
+        "gold_truth_answer": "Amy Mizzi"
+    },
+    "5abd35dd5542993062266bf5": {
+        "generated_answer": "Providence",
+        "gold_truth_answer": "Providence"
+    },
+    "5abd5e2d5542992ac4f382a2": {
+        "generated_answer": "no",
+        "gold_truth_answer": "yes"
+    },
+    "5ab92699554299753720f757": {
+        "generated_answer": "January 11, 1855 \u2013 November 30, 1863",
+        "gold_truth_answer": "1855 to November 30, 1863"
+    },
+    "5ac031985542996f0d89cb56": {
+        "generated_answer": "The Waffen-SS",
+        "gold_truth_answer": "Nazi Party"
+    },
+    "5abecbe55542994516f45439": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5ae232495542992decbdcc43": {
+        "generated_answer": "genera of flowering plants",
+        "gold_truth_answer": "plants"
+    },
+    "5ac1b08155429963665198ef": {
+        "generated_answer": "United States",
+        "gold_truth_answer": "America"
+    },
+    "5ae1d77d554299422ee9969f": {
+        "generated_answer": "There is no direct mention of Mason Rudolph playing at a specific stadium in the provided search results.",
+        "gold_truth_answer": "Boone Pickens Stadium"
+    },
+    "5a7278e65542994cef4bc2bf": {
+        "generated_answer": "no",
+        "gold_truth_answer": "It was released in 2010"
+    },
+    "5a8610df5542996432c5718b": {
+        "generated_answer": "Epcot.",
+        "gold_truth_answer": "Lake Buena Vista, Florida"
+    },
+    "5a8282b155429940e5e1a8e2": {
+        "generated_answer": "A film title",
+        "gold_truth_answer": "magazine"
+    },
+    "5add1bff5542992ae4cec471": {
+        "generated_answer": "Victor Garber",
+        "gold_truth_answer": "Victor Joseph Garber"
+    },
+    "5ab524b45542990594ba9d1c": {
+        "generated_answer": "1997",
+        "gold_truth_answer": "1 March 1971"
+    },
+    "5a83aeb95542996488c2e486": {
+        "generated_answer": "Queen M\u00e1xima of the Netherlands",
+        "gold_truth_answer": "King Willem-Alexander"
+    },
+    "5a794ffe55429970f5fffe96": {
+        "generated_answer": "Haiti",
+        "gold_truth_answer": "Hispaniola"
+    },
+    "5ab5b9ae554299637185c5fb": {
+        "generated_answer": "Lee",
+        "gold_truth_answer": "Lucious"
+    },
+    "5a77c3825542995d831812ae": {
+        "generated_answer": "Stewart O'Nan",
+        "gold_truth_answer": "Amy Tan"
+    },
+    "5ae38a4e5542991a06ce99e4": {
+        "generated_answer": "Israel",
+        "gold_truth_answer": "Lithuania"
+    },
+    "5ac0a6b65542992a796ded4e": {
+        "generated_answer": "July 17, 1978",
+        "gold_truth_answer": "8 July 1989"
+    },
+    "5ac5193a5542994611c8b387": {
+        "generated_answer": "flowering plants",
+        "gold_truth_answer": "plants"
+    },
+    "5a8463d05542990548d0b2a5": {
+        "generated_answer": "Shari Shattuck.",
+        "gold_truth_answer": "Shari Shattuck"
+    },
+    "5ae1d605554299234fd0431d": {
+        "generated_answer": "Robert Louis Stevenson",
+        "gold_truth_answer": "Rupert Chawner Brooke"
+    },
+    "5ae102bd5542990adbacf706": {
+        "generated_answer": "Naked Soldier is a 2012 Hong Kong action film, and Naked Weapon is a 2002 Hong Kong action-thriller film.",
+        "gold_truth_answer": "film"
+    },
+    "5a7312075542994cef4bc43b": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "serves the king and his successors with loyalty and ability until the time of the Persian conqueror Cyrus"
+    },
+    "5ae1435f55429901ffe4ae30": {
+        "generated_answer": "no",
+        "gold_truth_answer": "yes"
+    },
+    "5adfe5a655429942ec259b73": {
+        "generated_answer": "Northern Ireland",
+        "gold_truth_answer": "Northern Ireland"
+    },
+    "5a7e08ec5542995f4f4023b3": {
+        "generated_answer": "cocktails",
+        "gold_truth_answer": "cocktail"
+    },
+    "5a761d3955429976ec32bd14": {
+        "generated_answer": "Adam Levine (born January 15, 1969) and Leigh Nash are not mentioned in the provided search results, so there is no answer.",
+        "gold_truth_answer": "Leigh Bingham Nash"
+    },
+    "5a7da9ae5542995f4f4022b1": {
+        "generated_answer": "1943",
+        "gold_truth_answer": "Downfall"
+    },
+    "5a7cbdc255429909bec767ed": {
+        "generated_answer": "Document [10](Title: Pia Elda Locatelli) Pia Elda Locatelli (born 13 August 1949 in Villa d'Alm\u00e8, Bergamo)",
+        "gold_truth_answer": "co-founder of DFS (Duty Free Shops)"
+    },
+    "5a75fb3755429976ec32bcdc": {
+        "generated_answer": "The Egg",
+        "gold_truth_answer": "Tiananmen West Station"
+    },
+    "5a7a5aea5542996c55b2dd6f": {
+        "generated_answer": "France",
+        "gold_truth_answer": "Switzerland"
+    },
+    "5a7e789955429949594199cd": {
+        "generated_answer": "simplified versions of the board game Monopoly, designed for young children",
+        "gold_truth_answer": "board game"
+    },
+    "5a8b5b755542997f31a41ce9": {
+        "generated_answer": "Pune",
+        "gold_truth_answer": "Pune, Mumbai"
+    },
+    "5aba6273554299232ef4a2bd": {
+        "generated_answer": "pantomime and magic",
+        "gold_truth_answer": "through body motions, without use of speech"
+    },
+    "5ae766fd5542997b22f6a72e": {
+        "generated_answer": "1964",
+        "gold_truth_answer": "March 2, 1942"
+    },
+    "5ab8fe935542991b5579f0ba": {
+        "generated_answer": "No answer found.",
+        "gold_truth_answer": "24 November 2007"
+    },
+    "5ac2c8b8554299657fa29054": {
+        "generated_answer": "Julian David Cope and Miki Eleonora Berenyi.",
+        "gold_truth_answer": "musician"
+    },
+    "5a7b45c255429931da12ca49": {
+        "generated_answer": "Jack Bruce",
+        "gold_truth_answer": "Jack Bruce"
+    },
+    "5ade8eb855429939a52fe8f6": {
+        "generated_answer": "Harpswell",
+        "gold_truth_answer": "Cumberland County"
+    },
+    "5ab7e4745542993667794036": {
+        "generated_answer": "an old form of chess",
+        "gold_truth_answer": "game"
+    },
+    "5a77816f5542995d83181178": {
+        "generated_answer": "None",
+        "gold_truth_answer": "Nassau County"
+    },
+    "5a7cff65554299683c1c6405": {
+        "generated_answer": "March 1970",
+        "gold_truth_answer": "July 10, 1942"
+    },
+    "5ab3b3d3554299753aec59b9": {
+        "generated_answer": "December 8, 1938",
+        "gold_truth_answer": "born on January 24, 1947"
+    },
+    "5a7b9dc6554299294a54aa25": {
+        "generated_answer": "Ivan Passer",
+        "gold_truth_answer": "Ivan Passer"
+    },
+    "5adea3ea5542992fa25da7e8": {
+        "generated_answer": "Grand Ole Opry",
+        "gold_truth_answer": "The Grand Ole Opry"
+    },
+    "5ab4b9675542990594ba9ca2": {
+        "generated_answer": "Celine Dion",
+        "gold_truth_answer": "Celine Dion"
+    },
+    "5a8cdb8f55429941ae14df1c": {
+        "generated_answer": "Yes",
+        "gold_truth_answer": "yes"
+    },
+    "5abfec615542997d64295946": {
+        "generated_answer": "band",
+        "gold_truth_answer": "band"
+    },
+    "5ab3b0ae5542992ade7c6e37": {
+        "generated_answer": "Easter breads",
+        "gold_truth_answer": "bread"
+    },
+    "5add143e5542994734353832": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5a7c76ac55429935c91b51c9": {
+        "generated_answer": "There is no search result mentioning \"Ty Tabor\", so it's impossible to provide an answer.",
+        "gold_truth_answer": "Ty Tabor"
+    },
+    "5a78adcb554299148911f919": {
+        "generated_answer": "There is no mention of John Poindexter having a son in the provided documents, so the answer is:\n\nNone",
+        "gold_truth_answer": "July 1, 2012"
+    },
+    "5ae37d425542994393b9e6e8": {
+        "generated_answer": "A personal computer produced by ZPA Nov\u00fd Bor in the former Czechoslovakia.",
+        "gold_truth_answer": "computer"
+    },
+    "5a849cfc5542991dd0999d43": {
+        "generated_answer": "no",
+        "gold_truth_answer": "no"
+    },
+    "5ab96a0f55429970cfb8eacb": {
+        "generated_answer": "Scott Hoffman is an American rock drummer.",
+        "gold_truth_answer": "Babydaddy"
+    },
+    "5a7b99a0554299294a54aa17": {
+        "generated_answer": "David Usher was born on April 24, 1966, while there is no specific birthdate mentioned for M. Shadows ( Aaron Tyree, the vocalist/guitarist of Shadow Age).",
+        "gold_truth_answer": "David Usher"
+    },
+    "5a80a26d5542996402f6a5c5": {
+        "generated_answer": "rock bands",
+        "gold_truth_answer": "rock band"
+    },
+    "5ab731df5542992aa3b8c7c8": {
+        "generated_answer": "Yueqing is located in Zhejiang Province, eastern China, and does not mention Zhengzhou.",
+        "gold_truth_answer": "China"
+    },
+    "5ab21b01554299722f9b4cb0": {
+        "generated_answer": "Volgograd.",
+        "gold_truth_answer": "New Zealand-born"
+    },
+    "5a8db2425542994ba4e3dd05": {
+        "generated_answer": "Leontice",
+        "gold_truth_answer": "Leontice"
+    },
+    "5a79521f5542994bb9457000": {
+        "generated_answer": "Ed Wood was born on October 10, 1924, and Scott Derrickson was born on July 16, 1966.",
+        "gold_truth_answer": "Nick Cave"
+    },
+    "5ac04e0f5542997d642959fa": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5ab9945755429970cfb8eb4e": {
+        "generated_answer": "terms",
+        "gold_truth_answer": "board game"
+    },
+    "5a8486f65542992a431d1a43": {
+        "generated_answer": "The Band.",
+        "gold_truth_answer": "The Marshall Tucker Band"
+    },
+    "5a80b79e554299260e20a13c": {
+        "generated_answer": "Not applicable.",
+        "gold_truth_answer": "a cousin"
+    },
+    "5ae546b25542990ba0bbb250": {
+        "generated_answer": "terms",
+        "gold_truth_answer": "game"
+    },
+    "5adc2ae5554299438c868d64": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "yes"
+    },
+    "5ab451f85542991779162c6c": {
+        "generated_answer": "English alternative rock bands",
+        "gold_truth_answer": "rock band"
+    },
+    "5a73d9cc554299623ed4ac78": {
+        "generated_answer": "Michael Joseph Jackson",
+        "gold_truth_answer": "\"King of Pop\""
+    },
+    "5ab920da55429919ba4e23c3": {
+        "generated_answer": "Mr. Belvedere",
+        "gold_truth_answer": "American sitcom"
+    },
+    "5a81143055429903bc27b91b": {
+        "generated_answer": "Mastiff-type working breeds",
+        "gold_truth_answer": "dog"
+    },
+    "5a8592aa5542992a431d1b2a": {
+        "generated_answer": "F\u00fcchse Duisburg",
+        "gold_truth_answer": "Peshawar Zalmi"
+    },
+    "5ab83dd255429934fafe6d2f": {
+        "generated_answer": "no",
+        "gold_truth_answer": "yes"
+    },
+    "5abbcf6d5542993f40c73ba8": {
+        "generated_answer": "Comedy-drama.",
+        "gold_truth_answer": "comedian"
+    },
+    "5ac2f59f554299218029dbac": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "no"
+    },
+    "5a7fe5ca5542994857a76835": {
+        "generated_answer": "ESPN",
+        "gold_truth_answer": "ESPN"
+    },
+    "5a8199625542990a1d231e1d": {
+        "generated_answer": "Summerlin, Nevada",
+        "gold_truth_answer": "Summerlin, Nevada."
+    },
+    "5ae4d88b5542990ba0bbb172": {
+        "generated_answer": "Bryce Harper",
+        "gold_truth_answer": "6 ft"
+    },
+    "5a7bcd7b554299294a54aaf1": {
+        "generated_answer": "Paul Goll (born 1966)",
+        "gold_truth_answer": "Donnie Iris (born"
+    },
+    "5abc2dc7554299114383a0f4": {
+        "generated_answer": "film producer, director, and screenwriter",
+        "gold_truth_answer": "was an American film producer"
+    },
+    "5ab9fe1c55429901930fa766": {
+        "generated_answer": "Big Sky Resort",
+        "gold_truth_answer": "Big Sky Resort"
+    },
+    "5a7f6b3555429969796c1a44": {
+        "generated_answer": "Hiroshima",
+        "gold_truth_answer": "Hiroshima"
+    },
+    "5ab1fa6d554299340b52544e": {
+        "generated_answer": "Italian",
+        "gold_truth_answer": "Jakob Ludwig Felix Mendelssohn Bartholdy"
+    },
+    "5ac4f1de5542996feb3fe994": {
+        "generated_answer": "July 5, 1991",
+        "gold_truth_answer": "July 5, 1991"
+    },
+    "5ab9c5b1554299131ca423fe": {
+        "generated_answer": "Nathaniel P. Banks",
+        "gold_truth_answer": "Nathaniel Prentice (or Prentiss) Banks"
+    },
+    "5a8f74e755429918e830d229": {
+        "generated_answer": "The New Hampshire Seacoast region.",
+        "gold_truth_answer": "Seacoast Region"
+    },
+    "5a78e2ce55429970f5fffdbc": {
+        "generated_answer": "The Battle of the Coral Sea.",
+        "gold_truth_answer": "Battle of the Coral Sea"
+    },
+    "5a7cbac5554299683c1c6356": {
+        "generated_answer": "U.S. Navy base.",
+        "gold_truth_answer": "U.S. Navy base"
+    },
+    "5ac07d3e5542996f0d89cbf9": {
+        "generated_answer": "Max-Morlock-Stadion",
+        "gold_truth_answer": "Max-Morlock-Stadion"
+    },
+    "5ae5e0b055429929b08079e3": {
+        "generated_answer": "yes",
+        "gold_truth_answer": "Robert Conrad"
+    },
+    "5a7e915a5542993067513580": {
+        "generated_answer": "Rochester",
+        "gold_truth_answer": "Rochester"
+    },
+    "5a7aa1c9554299042af8f67b": {
+        "generated_answer": "Michigan",
+        "gold_truth_answer": "Michigan"
+    },
+    "5ac190e55542994ab5c67d7f": {
+        "generated_answer": "1929",
+        "gold_truth_answer": "1929"
+    },
+    "5a7cbb97554299683c1c635a": {
+        "generated_answer": "Charleston",
+        "gold_truth_answer": "Charleston"
+    },
+    "5ac484dd554299204fd21f76": {
+        "generated_answer": "Mississippi",
+        "gold_truth_answer": "Mississippi"
+    },
+    "5ae6506e5542992ae0d162d1": {
+        "generated_answer": "United States",
+        "gold_truth_answer": "United States"
+    },
+    "5a906a1155429916514e74b5": {
+        "generated_answer": "Nevada.",
+        "gold_truth_answer": "Nevada"
+    },
+    "5abd38d75542993062266c21": {
+        "generated_answer": "A brand of gourmet cat food from Nestl\u00e9 Purina PetCare.",
+        "gold_truth_answer": "brand of gourmet cat food"
+    },
+    "5a8a32ea55429930ff3c0cf5": {
+        "generated_answer": "Trevor Beresford Romeo OBE, better known by his stage name Jazzie B, is a British DJ, music producer and entrepreneur.",
+        "gold_truth_answer": "Punjabi language Bhangra singer-songwriter"
+    },
+    "5ae0eafc5542990adbacf6ca": {
+        "generated_answer": "American rapper from Atlanta, Georgia, better known by his stage name OG Maco.",
+        "gold_truth_answer": "American rapper"
+    },
+    "5adbff5c5542994650320c34": {
+        "generated_answer": "cities.",
+        "gold_truth_answer": "plant"
+    },
+    "5a72b4e25542991f29ee2cd3": {
+        "generated_answer": "East\u2013west state highway in Connecticut, highway in central Missouri, major arterial road in Winnipeg, Manitoba, U.S. highway, Oregon state highway, London bus route, state highway in southern California, or a route in another region.",
+        "gold_truth_answer": "U.S. Route 42 (US 42) is an east\u2013west United States highway that runs southwest-northeast for 355 mi from Louisville, Kentucky to Cleveland, Ohio."
+    },
+    "5ae0ef325542990adbacf6de": {
+        "generated_answer": "An earthen pot used for water storage cooler.",
+        "gold_truth_answer": "Indian"
+    },
+    "5ae0d231554299603e418464": {
+        "generated_answer": "Elizabeth Woolridge Grant, known professionally as Lana Del Rey, is an American singer, songwriter, and model.",
+        "gold_truth_answer": "American singer"
+    },
+    "5abc30a6554299114383a0fd": {
+        "generated_answer": "A reality show.",
+        "gold_truth_answer": "a skateboarding magazine"
+    },
+    "5ac445e95542995c82c4ad17": {
+        "generated_answer": "An American animated sitcom created by Seth MacFarlane for the Fox Broadcasting Company.",
+        "gold_truth_answer": "American animated sitcom"
+    },
+    "5ac50b8255429924173fb57e": {
+        "generated_answer": "Multiple artists, including Kind of Like Spitting, Simply Red, Red, T'Pau, Universal Indicator, A Global Threat, Guillemots, Daniel Merriweather, Red Velvet, and Red Garland.",
+        "gold_truth_answer": "Taylor Swift"
+    },
+    "5ae0efc55542990adbacf6e1": {
+        "generated_answer": "A thriller novel by American writer Harlan Coben, published in 2001.",
+        "gold_truth_answer": "Film"
+    },
+    "5a79186f55429907847277b0": {
+        "generated_answer": "Moloko \"Koko\" Temo",
+        "gold_truth_answer": "Jane Jacobs"
+    },
+    "5ae36c0a5542990afbd1e138": {
+        "generated_answer": "A 2002 New French Extremity film written by, directed by, and starring Marina de Van.",
+        "gold_truth_answer": "New French Extremity"
+    }
+}

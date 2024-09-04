@@ -1,0 +1,7 @@
+beir
+transformers
+torch
+tqdm
+sentence-transformers
+numpy
+psutil

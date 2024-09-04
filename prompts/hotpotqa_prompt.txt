@@ -1,0 +1,18 @@
+Write a high-quality answer for the given question using only the provided search results. You should only give me the answer without any other words.
+
+For example:
+Document [1](Title: Ed Wood) Edward Davis Wood Jr. (October 10, 1924 – December 10, 1978) was an American filmmaker, actor, writer, producer, and director.
+Document [2](Title: Scott Derrickson) Scott Derrickson (born July 16, 1966) is an American director, screenwriter and producer. He lives in Los Angeles, California. He is best known for directing horror films such as "Sinister", "The Exorcism of Emily Rose", and "Deliver Us From Evil", as well as the 2016 Marvel Cinematic Universe installment, "Doctor Strange."
+Question: Were Scott Derrickson and Ed Wood of the same nationality?
+Answer: yes
+
+Document [1](Title: Shirley Temple) Shirley Temple Black (April 23, 1928 – February 10, 2014) was an American actress, singer, dancer, businesswoman, and diplomat who was Hollywood's number one box-office draw as a child actress from 1935 to 1938. As an adult, she was named United States ambassador to Ghana and to Czechoslovakia and also served as Chief of Protocol of the United States.
+Document [2](Title: Kiss and Tell (1945 film)) Kiss and Tell is a 1945 American comedy film starring then 17-year-old Shirley Temple as Corliss Archer. In the film, two teenage girls cause their respective parents much concern when they start to become interested in boys. The parents' bickering about which girl is the worse influence causes more problems than it solves.
+Question: What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?
+Answer: Chief of Protocol
+
+
+{search_results}
+
+Question: {question}
+Answer:

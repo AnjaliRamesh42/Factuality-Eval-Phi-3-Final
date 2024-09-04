@@ -1,0 +1,1018 @@
+{
+    "odql_6525": {
+        "generated_answer": "Terry and June",
+        "gold_truth_answer": "'HAPPY EVER AFTER'"
+    },
+    "bb_7402": {
+        "generated_answer": "LinkedIn",
+        "gold_truth_answer": "Linkedin.com"
+    },
+    "sfq_6599": {
+        "generated_answer": "Jamaica",
+        "gold_truth_answer": "Jamaica"
+    },
+    "sfq_1472": {
+        "generated_answer": "Neil Hamilton",
+        "gold_truth_answer": "Tim Smith"
+    },
+    "qw_14193": {
+        "generated_answer": "All have won the Best Actor Academy Award.",
+        "gold_truth_answer": "Winning the Academy Award for Best Actor"
+    },
+    "qw_15293": {
+        "generated_answer": "Roger Federer",
+        "gold_truth_answer": "Rafael Nadal"
+    },
+    "sfq_15056": {
+        "generated_answer": "Julian Clary",
+        "gold_truth_answer": "Clare Balding"
+    },
+    "qz_4435": {
+        "generated_answer": "Tommy Lee Jones",
+        "gold_truth_answer": "Tommy Lee Jones"
+    },
+    "bb_3225": {
+        "generated_answer": "Jimmy Wales did not buy back his agency business assets in 2012.",
+        "gold_truth_answer": "Paparazzi pictures"
+    },
+    "qw_169": {
+        "generated_answer": "The Hudson Bay Company.",
+        "gold_truth_answer": "Hudson's Bay Company"
+    },
+    "sfq_4855": {
+        "generated_answer": "The Toucan.",
+        "gold_truth_answer": "THE TOUCAN"
+    },
+    "bb_3995": {
+        "generated_answer": "E-commerce",
+        "gold_truth_answer": "C2C shopping"
+    },
+    "qw_1754": {
+        "generated_answer": "Mark Spitz becomes the 1st swimmer & athlete to win 7 gold medals in 1 Olympiad;",
+        "gold_truth_answer": "Lasse Virn"
+    },
+    "qg_1834": {
+        "generated_answer": "Julius Rosenberg and Ethel Rosenberg",
+        "gold_truth_answer": "Julius and Ethel Rosenberg"
+    },
+    "sfq_13585": {
+        "generated_answer": "Lord Ashdown.",
+        "gold_truth_answer": "PHIL WOOLAS"
+    },
+    "tb_1061": {
+        "generated_answer": "Indus Valley Civilization",
+        "gold_truth_answer": "Indus river"
+    },
+    "tb_1276": {
+        "generated_answer": "February 14",
+        "gold_truth_answer": "February 14 (Saint Valentine's Day Massacre)"
+    },
+    "bb_3185": {
+        "generated_answer": "Answer: Not found in provided search results.",
+        "gold_truth_answer": "London Paralympics"
+    },
+    "bb_4861": {
+        "generated_answer": "San Juan",
+        "gold_truth_answer": "Mumbai"
+    },
+    "bb_8778": {
+        "generated_answer": "Iraq",
+        "gold_truth_answer": "Iraq"
+    },
+    "qw_2178": {
+        "generated_answer": "Soccer",
+        "gold_truth_answer": "Orienteering"
+    },
+    "bb_5049": {
+        "generated_answer": "Stained glass",
+        "gold_truth_answer": "Mosaic"
+    },
+    "bb_2713": {
+        "generated_answer": "liver",
+        "gold_truth_answer": "Eggs"
+    },
+    "bb_3332": {
+        "generated_answer": "horizontal integration",
+        "gold_truth_answer": "Vertical"
+    },
+    "dpql_4891": {
+        "generated_answer": "Uranium",
+        "gold_truth_answer": "Uranium"
+    },
+    "bb_6248": {
+        "generated_answer": "Donald Trump",
+        "gold_truth_answer": "Donald Trump"
+    },
+    "odql_8203": {
+        "generated_answer": "Edith Cavell",
+        "gold_truth_answer": "EDITH CAVELL"
+    },
+    "sfq_4818": {
+        "generated_answer": "Salman Rushdie",
+        "gold_truth_answer": "SALMAN RUSHDIE"
+    },
+    "bb_2682": {
+        "generated_answer": "Witches",
+        "gold_truth_answer": "Freemasonry"
+    },
+    "bb_5472": {
+        "generated_answer": "Salmon",
+        "gold_truth_answer": "Salmonella"
+    },
+    "qg_3703": {
+        "generated_answer": "after an upcoming election.",
+        "gold_truth_answer": "The next term of Representatives has begun"
+    },
+    "qw_12623": {
+        "generated_answer": "Benedictine",
+        "gold_truth_answer": "Benedictine"
+    },
+    "wh_2405": {
+        "generated_answer": "Richard Baker",
+        "gold_truth_answer": "ALASTAIR BURNETT"
+    },
+    "qw_2790": {
+        "generated_answer": "Harold Shipman",
+        "gold_truth_answer": "Harold Shipman"
+    },
+    "bb_3078": {
+        "generated_answer": "Rehabilitation medicine or Physiatry.",
+        "gold_truth_answer": "Mr"
+    },
+    "odql_12518": {
+        "generated_answer": "The Welsh band Stereophonics.",
+        "gold_truth_answer": "Manic Street Preachers"
+    },
+    "sfq_9891": {
+        "generated_answer": "Herman Van Rompuy",
+        "gold_truth_answer": "BARONESS ASHTON"
+    },
+    "qw_1553": {
+        "generated_answer": "Zanzibar",
+        "gold_truth_answer": "Zanzibar"
+    },
+    "odql_8649": {
+        "generated_answer": "2003",
+        "gold_truth_answer": "2003"
+    },
+    "bb_5888": {
+        "generated_answer": "press",
+        "gold_truth_answer": "Cotton fabric"
+    },
+    "qg_1358": {
+        "generated_answer": "George Lucas",
+        "gold_truth_answer": "George Lucas"
+    },
+    "tb_903": {
+        "generated_answer": "The American Library Association.",
+        "gold_truth_answer": "LexisNexis"
+    },
+    "qw_8497": {
+        "generated_answer": "Episode IV: A New Hope and Episode VI: Return of the Jedi",
+        "gold_truth_answer": "\"\"\"Episode IV: A New Hope\"\" & \"\"Episode V: The Empire Strikes Back\"\"\""
+    },
+    "tb_125": {
+        "generated_answer": "orphans",
+        "gold_truth_answer": "Blue pencil doctrine"
+    },
+    "bb_5998": {
+        "generated_answer": "bicycle",
+        "gold_truth_answer": "Segways"
+    },
+    "bb_4582": {
+        "generated_answer": "King crab.",
+        "gold_truth_answer": "Northern prawn"
+    },
+    "tb_500": {
+        "generated_answer": "The Guns of Navarone",
+        "gold_truth_answer": "The Guns of Navarone"
+    },
+    "tc_1924": {
+        "generated_answer": "Yasser Arafat",
+        "gold_truth_answer": "Yasser Arafat"
+    },
+    "bb_6399": {
+        "generated_answer": "there is no information about Mexican Salvador Alvarenga being sued in 2015 in the provided search results.",
+        "gold_truth_answer": "Eating his shipmate"
+    },
+    "qw_13276": {
+        "generated_answer": "Andrew Jackson",
+        "gold_truth_answer": "Andrew Jackson"
+    },
+    "qw_13361": {
+        "generated_answer": "Queen consort of France from 1547 until 1559, as the wife of King Henry II.",
+        "gold_truth_answer": "Catherine de Medici"
+    },
+    "wh_3571": {
+        "generated_answer": "Arbor",
+        "gold_truth_answer": "PERGOLA"
+    },
+    "bb_5737": {
+        "generated_answer": "Harry Shearer",
+        "gold_truth_answer": "Harry Shearer"
+    },
+    "qw_14790": {
+        "generated_answer": "Rip Van Winkle",
+        "gold_truth_answer": "Rip Van Winkle"
+    },
+    "bb_5442": {
+        "generated_answer": "Polyuria",
+        "gold_truth_answer": "Diabetes"
+    },
+    "qg_1770": {
+        "generated_answer": "Miranda v. Arizona",
+        "gold_truth_answer": "Miranda v Arizona"
+    },
+    "tb_490": {
+        "generated_answer": "Apocalypse Now",
+        "gold_truth_answer": "Apocalypse Now"
+    },
+    "qw_12472": {
+        "generated_answer": "Aleister Crowley",
+        "gold_truth_answer": "Aleister Crowley"
+    },
+    "qg_2154": {
+        "generated_answer": "The Hitcher",
+        "gold_truth_answer": "No Country for Old Men"
+    },
+    "odql_7865": {
+        "generated_answer": "Falstaff's cynical seduction of two wealthy women goes awry when they find out about each other and decide to return the compliment by making him a laughing stock.",
+        "gold_truth_answer": "THE MERRY WIVES OF WINDSOR"
+    },
+    "qw_10489": {
+        "generated_answer": "The Golden Girls",
+        "gold_truth_answer": "Golden Girls"
+    },
+    "qg_1456": {
+        "generated_answer": "Vitamin B1",
+        "gold_truth_answer": "B1"
+    },
+    "bb_1220": {
+        "generated_answer": "Islam",
+        "gold_truth_answer": "Islam"
+    },
+    "qw_14739": {
+        "generated_answer": "Schindler's List (1993)",
+        "gold_truth_answer": "The Piano"
+    },
+    "qw_9073": {
+        "generated_answer": "The Woman in Red",
+        "gold_truth_answer": "Lady in Red"
+    },
+    "bb_3783": {
+        "generated_answer": "Packet",
+        "gold_truth_answer": "Cookie"
+    },
+    "qw_3547": {
+        "generated_answer": "The French Third Republic",
+        "gold_truth_answer": "Second Empire"
+    },
+    "qw_1297": {
+        "generated_answer": "Theory of the continuous creation of matter.",
+        "gold_truth_answer": "Steady state"
+    },
+    "qg_3179": {
+        "generated_answer": "Three Mile Island near Harrisburg, Pennsylvania",
+        "gold_truth_answer": "Three Mile Island"
+    },
+    "tb_1951": {
+        "generated_answer": "genes",
+        "gold_truth_answer": "Jumping genes"
+    },
+    "bb_5190": {
+        "generated_answer": "Mosaic.",
+        "gold_truth_answer": "Tiling\/mosaic"
+    },
+    "odql_14990": {
+        "generated_answer": "Paul McCartney",
+        "gold_truth_answer": "Paul McCartney"
+    },
+    "qw_6120": {
+        "generated_answer": "CSIRO represents national government body of scientific research ... under the name of Advisory Council of Science and Industry ...",
+        "gold_truth_answer": "CSIRO"
+    },
+    "tb_1931": {
+        "generated_answer": "Battle of the Dinosaur Bones",
+        "gold_truth_answer": "Bone Wars"
+    },
+    "qw_16330": {
+        "generated_answer": "Jelly Roll Morton",
+        "gold_truth_answer": "\"\"\"Jelly Roll\"\" Morton\""
+    },
+    "qw_8506": {
+        "generated_answer": "Fractal Geometry",
+        "gold_truth_answer": "Fractal geometry"
+    },
+    "odql_7371": {
+        "generated_answer": "Ford",
+        "gold_truth_answer": "GERALD FORD"
+    },
+    "qw_4668": {
+        "generated_answer": "The X-Files",
+        "gold_truth_answer": "The X-Files"
+    },
+    "qb_8058": {
+        "generated_answer": "Othello syndrome.",
+        "gold_truth_answer": "Othello Syndrome"
+    },
+    "qw_14545": {
+        "generated_answer": "Yam",
+        "gold_truth_answer": "Tapioca"
+    },
+    "qw_4190": {
+        "generated_answer": "United States",
+        "gold_truth_answer": "Mexico"
+    },
+    "qw_4555": {
+        "generated_answer": "Fencing",
+        "gold_truth_answer": "Fencing"
+    },
+    "bb_8401": {
+        "generated_answer": "Barings Bank",
+        "gold_truth_answer": "Barings"
+    },
+    "tb_1905": {
+        "generated_answer": "atmospheric pressure.",
+        "gold_truth_answer": "Earth's magnetic field"
+    },
+    "tb_299": {
+        "generated_answer": "Linoleum",
+        "gold_truth_answer": "Linoleum"
+    },
+    "qz_3159": {
+        "generated_answer": "The Mosquito Coast",
+        "gold_truth_answer": "The Mosquito Coast"
+    },
+    "qb_8157": {
+        "generated_answer": "No answer found.",
+        "gold_truth_answer": "Canada"
+    },
+    "odql_10483": {
+        "generated_answer": "Doris Lessing",
+        "gold_truth_answer": "DORIS LESSING"
+    },
+    "qg_3908": {
+        "generated_answer": "Dilbert",
+        "gold_truth_answer": "Dilbert"
+    },
+    "bb_4306": {
+        "generated_answer": "Fluid.",
+        "gold_truth_answer": "Fluid"
+    },
+    "qz_1189": {
+        "generated_answer": "The Word",
+        "gold_truth_answer": "The Word"
+    },
+    "odql_7598": {
+        "generated_answer": "Kvass",
+        "gold_truth_answer": "KVASS"
+    },
+    "wh_3999": {
+        "generated_answer": "Isambard Kingdom Brunel (1806-1859)",
+        "gold_truth_answer": "Isambard Kingdom BRUNEL"
+    },
+    "qf_3285": {
+        "generated_answer": "Her body was cremated and her remains were buried at the cemetery of Forest Lawn Memorial Park.",
+        "gold_truth_answer": "Contains Telephone"
+    },
+    "odql_7507": {
+        "generated_answer": "Daniel Casey",
+        "gold_truth_answer": "DANIEL CASEY"
+    },
+    "qw_3761": {
+        "generated_answer": "Sam Mendes",
+        "gold_truth_answer": "Sam Mendes"
+    },
+    "qw_15383": {
+        "generated_answer": "Breakthrough Prizes",
+        "gold_truth_answer": "The Breakthrough Prizes"
+    },
+    "qw_4371": {
+        "generated_answer": "South America",
+        "gold_truth_answer": "South America"
+    },
+    "wh_2928": {
+        "generated_answer": "Jane Eyre",
+        "gold_truth_answer": "JANE EYRE"
+    },
+    "qg_1425": {
+        "generated_answer": "Driving Miss Daisy",
+        "gold_truth_answer": "Driving Miss Daisy"
+    },
+    "bb_6535": {
+        "generated_answer": "EE",
+        "gold_truth_answer": "Everything Everywhere"
+    },
+    "tb_885": {
+        "generated_answer": "Opus Dei",
+        "gold_truth_answer": "Opus Dei"
+    },
+    "sfq_19958": {
+        "generated_answer": "Jack the Ripper.",
+        "gold_truth_answer": "JACK THE RIPPER"
+    },
+    "qw_14663": {
+        "generated_answer": "The Republic of Bolivia, in the center of South America, ... Argentina, and Chile in the south; Brazil in the ...",
+        "gold_truth_answer": "The Andes"
+    },
+    "qw_9016": {
+        "generated_answer": "Edward Lear",
+        "gold_truth_answer": "Edward Lear"
+    },
+    "tb_1585": {
+        "generated_answer": "Frankenstein",
+        "gold_truth_answer": "The Vampyre by John William Polidori"
+    },
+    "qg_2053": {
+        "generated_answer": "war",
+        "gold_truth_answer": "war"
+    },
+    "sfq_17413": {
+        "generated_answer": "Romanian",
+        "gold_truth_answer": "ROMANIAN"
+    },
+    "qw_3988": {
+        "generated_answer": "South Africa",
+        "gold_truth_answer": "South Africa"
+    },
+    "qg_4216": {
+        "generated_answer": "Archer",
+        "gold_truth_answer": "Archer"
+    },
+    "bb_5633": {
+        "generated_answer": "John Lewis",
+        "gold_truth_answer": "John Lewis"
+    },
+    "qw_10923": {
+        "generated_answer": "Vyvyan",
+        "gold_truth_answer": "Adrian Edmondson"
+    },
+    "bb_8625": {
+        "generated_answer": "Facebook, Inc.",
+        "gold_truth_answer": "Facebook"
+    },
+    "bb_4133": {
+        "generated_answer": "Ytterby",
+        "gold_truth_answer": "Kiruna"
+    },
+    "bb_5924": {
+        "generated_answer": "animal",
+        "gold_truth_answer": "Serpentes"
+    },
+    "odql_6148": {
+        "generated_answer": "Muriel Spark",
+        "gold_truth_answer": "ANTONIA FRASER"
+    },
+    "sfq_19180": {
+        "generated_answer": "xylophone",
+        "gold_truth_answer": "Xylophone"
+    },
+    "odql_3484": {
+        "generated_answer": "Throw Momma from the Train",
+        "gold_truth_answer": "'THROW MOMMA FROM THE TRAIN'"
+    },
+    "qw_9736": {
+        "generated_answer": "Hypopituitarism",
+        "gold_truth_answer": "Diabetes"
+    },
+    "qb_9675": {
+        "generated_answer": "Game of Thrones",
+        "gold_truth_answer": "Game of Thrones"
+    },
+    "qw_5931": {
+        "generated_answer": "Operation Torch, Operation Ichi-Go, Operation Bagration, Operation Market Garden, and Operation Crossbow",
+        "gold_truth_answer": "Military operations in World War II"
+    },
+    "qw_14606": {
+        "generated_answer": "Thermocouple",
+        "gold_truth_answer": "Thermocouple"
+    },
+    "bb_5624": {
+        "generated_answer": "The first International service.",
+        "gold_truth_answer": "Diners"
+    },
+    "wh_3456": {
+        "generated_answer": "Rosa Parks",
+        "gold_truth_answer": "ROSA PARKS"
+    },
+    "tb_2039": {
+        "generated_answer": "Alexander von Humboldt",
+        "gold_truth_answer": "Alexander von Humboldt (1769-1859)"
+    },
+    "tb_1075": {
+        "generated_answer": "Tableau Mountains",
+        "gold_truth_answer": "Tepuis"
+    },
+    "odql_5334": {
+        "generated_answer": "Ernest Magnall",
+        "gold_truth_answer": "RON ATKINSON"
+    },
+    "qw_9898": {
+        "generated_answer": "Barry Lyndon",
+        "gold_truth_answer": "Dean Spanley"
+    },
+    "bb_3173": {
+        "generated_answer": "Actuarially-measured probabilities and risks of future events, such as the financial consequences of death, sickness, retirement, or other uncertain outcomes.",
+        "gold_truth_answer": "Insurance risks"
+    },
+    "sfq_1112": {
+        "generated_answer": "Romania",
+        "gold_truth_answer": "Serbia"
+    },
+    "bb_4865": {
+        "generated_answer": "Raclette",
+        "gold_truth_answer": "Fondue"
+    },
+    "odql_13057": {
+        "generated_answer": "Devon Loch.",
+        "gold_truth_answer": "DEVON LOCH"
+    },
+    "qw_14243": {
+        "generated_answer": "blown glass",
+        "gold_truth_answer": "Glass"
+    },
+    "sfq_15026": {
+        "generated_answer": "Paddington Bear",
+        "gold_truth_answer": "Paddington Bear"
+    },
+    "qg_2075": {
+        "generated_answer": "James Madison",
+        "gold_truth_answer": "James Madison"
+    },
+    "sfq_18196": {
+        "generated_answer": "Trumpet",
+        "gold_truth_answer": "Trumpet"
+    },
+    "qw_5569": {
+        "generated_answer": "No impact.",
+        "gold_truth_answer": "Napoleon Bonaparte"
+    },
+    "qw_12138": {
+        "generated_answer": "Australian Open",
+        "gold_truth_answer": "Australian Open"
+    },
+    "qw_7415": {
+        "generated_answer": "None",
+        "gold_truth_answer": "Equatorial Guinea"
+    },
+    "bb_4972": {
+        "generated_answer": "numen",
+        "gold_truth_answer": "Naughty"
+    },
+    "sfq_16348": {
+        "generated_answer": "Triumph Motorcycle",
+        "gold_truth_answer": "TRIUMPH"
+    },
+    "odql_5633": {
+        "generated_answer": "The Fighter",
+        "gold_truth_answer": "'THE FIGHTER'"
+    },
+    "tb_1611": {
+        "generated_answer": "Le Cercle Rouge",
+        "gold_truth_answer": "The Day of the Jackal by Frederick Forsyth"
+    },
+    "dpql_192": {
+        "generated_answer": "John Hunter Blair",
+        "gold_truth_answer": "Tony HART"
+    },
+    "qz_4121": {
+        "generated_answer": "Felix Leiter",
+        "gold_truth_answer": "A) Felix Leiter"
+    },
+    "bb_4224": {
+        "generated_answer": "race car seats",
+        "gold_truth_answer": "Seats"
+    },
+    "qg_2138": {
+        "generated_answer": "Lou Gehrig",
+        "gold_truth_answer": "Lou Gerhig"
+    },
+    "bb_1793": {
+        "generated_answer": "Sucre",
+        "gold_truth_answer": "Sucre"
+    },
+    "qz_5252": {
+        "generated_answer": "Calypso",
+        "gold_truth_answer": "Calypso"
+    },
+    "sfq_7537": {
+        "generated_answer": "Ronald Reagan",
+        "gold_truth_answer": "Ronald Reagan"
+    },
+    "wh_542": {
+        "generated_answer": "Turn of the century.",
+        "gold_truth_answer": "1920s"
+    },
+    "sfq_6730": {
+        "generated_answer": "Beatrix Potter",
+        "gold_truth_answer": "BEATRIX POTTER"
+    },
+    "tb_1475": {
+        "generated_answer": "The Adventures of Tintin",
+        "gold_truth_answer": "Madeline by Ludwig Bemelmans"
+    },
+    "bb_2073": {
+        "generated_answer": "\u00a3109,000",
+        "gold_truth_answer": "\u00a3186k"
+    },
+    "qb_3970": {
+        "generated_answer": "Chatham House",
+        "gold_truth_answer": "Chatham"
+    },
+    "qg_3302": {
+        "generated_answer": "Jerry Buss",
+        "gold_truth_answer": "Ken Behring"
+    },
+    "odql_12198": {
+        "generated_answer": "1937",
+        "gold_truth_answer": "1937"
+    },
+    "bb_4900": {
+        "generated_answer": "Sensurround.",
+        "gold_truth_answer": "Sensurround"
+    },
+    "odql_8542": {
+        "generated_answer": "Endocrinology",
+        "gold_truth_answer": "ENDROCRINOLOGY"
+    },
+    "sfq_13767": {
+        "generated_answer": "Honeycomb cells.",
+        "gold_truth_answer": "HONEYCOMB"
+    },
+    "wh_3430": {
+        "generated_answer": "Bradley Walsh",
+        "gold_truth_answer": "BRADLEY WALSH"
+    },
+    "qw_6139": {
+        "generated_answer": "Euphorbia",
+        "gold_truth_answer": "Bougainvillea"
+    },
+    "wh_756": {
+        "generated_answer": "Jurassic",
+        "gold_truth_answer": "JURASSIC"
+    },
+    "qg_1015": {
+        "generated_answer": "The Titanic",
+        "gold_truth_answer": "RMS Titanic"
+    },
+    "qw_7439": {
+        "generated_answer": "Microsoft",
+        "gold_truth_answer": "Microsoft"
+    },
+    "qb_9094": {
+        "generated_answer": "Northern Ireland",
+        "gold_truth_answer": "Northern Ireland"
+    },
+    "odql_7706": {
+        "generated_answer": "Dalziel \nPascoe",
+        "gold_truth_answer": "DALZIEL & PASCOE"
+    },
+    "qw_10645": {
+        "generated_answer": "Alan Turing",
+        "gold_truth_answer": "Alan Turing"
+    },
+    "qg_1986": {
+        "generated_answer": "1984",
+        "gold_truth_answer": "1984"
+    },
+    "bb_3629": {
+        "generated_answer": "Mozilla.",
+        "gold_truth_answer": "Mozilla"
+    },
+    "bb_6114": {
+        "generated_answer": "Macbeth",
+        "gold_truth_answer": "Macbeth"
+    },
+    "bb_3847": {
+        "generated_answer": "Animal.",
+        "gold_truth_answer": "Cow"
+    },
+    "sfq_10361": {
+        "generated_answer": "Flo",
+        "gold_truth_answer": "Hobbits"
+    },
+    "odql_8166": {
+        "generated_answer": "The 1924 Indian Citizenship Act, which granted full US citizenship to Native Americans, was signed into law by President Calvin Coolidge.",
+        "gold_truth_answer": "CALVIN COOLIDGE"
+    },
+    "qw_13616": {
+        "generated_answer": "Iceland",
+        "gold_truth_answer": "Iceland"
+    },
+    "qw_397": {
+        "generated_answer": "General Nguyen Van Thieu.",
+        "gold_truth_answer": "Nguyn Vn Thiu"
+    },
+    "bb_3986": {
+        "generated_answer": "nationalization of the means of production",
+        "gold_truth_answer": "Nationalization"
+    },
+    "sfq_22175": {
+        "generated_answer": "Catherine Zeta-Jones.",
+        "gold_truth_answer": "Catherine Zeta-Jones"
+    },
+    "tb_1582": {
+        "generated_answer": "None of the provided search results mention a 20th century German novel that traces the spiritual journey of a protagonist contains twelve chapters relating to the Four Noble Truths and the Eight Fold Path of a belief system.",
+        "gold_truth_answer": "Siddhartha by Herman Hesse"
+    },
+    "tc_1183": {
+        "generated_answer": "Fred Astaire",
+        "gold_truth_answer": "Fred Astaire"
+    },
+    "odql_12631": {
+        "generated_answer": "the nervous system",
+        "gold_truth_answer": "The legs"
+    },
+    "sfq_250": {
+        "generated_answer": "Danish",
+        "gold_truth_answer": "Danish"
+    },
+    "qb_9238": {
+        "generated_answer": "Cricket",
+        "gold_truth_answer": "Cricket"
+    },
+    "qw_5748": {
+        "generated_answer": "Operation Pointblank, Operation Overlord, Operation Fortitude, Operation Neptune, and Operation Quicksilver.",
+        "gold_truth_answer": "Allied operations in World War II"
+    },
+    "odql_6852": {
+        "generated_answer": "Sebastian Beach, the butler, and Angus McAllister, the gardener, at Blandings Castle.",
+        "gold_truth_answer": "'LORD EMSWORTH'"
+    },
+    "qb_4977": {
+        "generated_answer": "Booth",
+        "gold_truth_answer": "Anderson"
+    },
+    "qg_2297": {
+        "generated_answer": "Dian Fossey",
+        "gold_truth_answer": "Dian Fossey"
+    },
+    "bb_6777": {
+        "generated_answer": "Ancient Greek",
+        "gold_truth_answer": "Elements"
+    },
+    "dpql_4069": {
+        "generated_answer": "Jean Paul Gaultier",
+        "gold_truth_answer": "Jean-Paul GAULTIER"
+    },
+    "qg_248": {
+        "generated_answer": "Rudyard Kipling",
+        "gold_truth_answer": "Rudyard Kipling"
+    },
+    "qw_8348": {
+        "generated_answer": "cat",
+        "gold_truth_answer": "Cat"
+    },
+    "qw_2481": {
+        "generated_answer": "Ashes to Ashes",
+        "gold_truth_answer": "Life On Mars"
+    },
+    "bb_5844": {
+        "generated_answer": "skin care",
+        "gold_truth_answer": "Skincare"
+    },
+    "bb_2939": {
+        "generated_answer": "Chemistry",
+        "gold_truth_answer": "Chemistry"
+    },
+    "sfq_15601": {
+        "generated_answer": "Heisenberg",
+        "gold_truth_answer": "WERNER HEISENBERG"
+    },
+    "bb_7164": {
+        "generated_answer": "Typhoid",
+        "gold_truth_answer": "Typhoid"
+    },
+    "odql_12459": {
+        "generated_answer": "Spotlight",
+        "gold_truth_answer": "STEVE JOBS"
+    },
+    "qw_15330": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "They both died while playing a match, from being struck in the neck by a cricket ball"
+    },
+    "qw_8126": {
+        "generated_answer": "4",
+        "gold_truth_answer": "10"
+    },
+    "tb_681": {
+        "generated_answer": "Caucasians",
+        "gold_truth_answer": "Pygmies (short height)"
+    },
+    "tb_2021": {
+        "generated_answer": "Leonhard Euler.",
+        "gold_truth_answer": "Carl Friedrich Gauss (1777-1855)"
+    },
+    "bt_2624": {
+        "generated_answer": "All Saints' Day",
+        "gold_truth_answer": "All Saint's Day"
+    },
+    "sfq_19051": {
+        "generated_answer": "Little Dorrit",
+        "gold_truth_answer": "Little Dorrit"
+    },
+    "bb_3702": {
+        "generated_answer": "chemical energy",
+        "gold_truth_answer": "Bleach"
+    },
+    "bb_5100": {
+        "generated_answer": "Microsoft",
+        "gold_truth_answer": "Microsoft"
+    },
+    "tc_2957": {
+        "generated_answer": "Progesterone",
+        "gold_truth_answer": "Luteinizing hormone"
+    },
+    "odql_6244": {
+        "generated_answer": "No one wrote the political autobiography \u201cSpeaking for Myself\u201d.",
+        "gold_truth_answer": "Cherie Blair"
+    },
+    "sfq_26044": {
+        "generated_answer": "Stieg Larsson",
+        "gold_truth_answer": "Stieg Larsson"
+    },
+    "tb_804": {
+        "generated_answer": "Its largest unit is its Collection Department which handles overseas intelligence work.",
+        "gold_truth_answer": "Mossad"
+    },
+    "qw_12049": {
+        "generated_answer": "lubricants",
+        "gold_truth_answer": "Synthetic engine oil"
+    },
+    "odql_2203": {
+        "generated_answer": "Catherine Ashton",
+        "gold_truth_answer": "BARONESS ASHTON (of Up Holland)"
+    },
+    "odql_7851": {
+        "generated_answer": "Herzog and De Meuron",
+        "gold_truth_answer": "ERZOG & DE MEURON"
+    },
+    "bb_1009": {
+        "generated_answer": "None",
+        "gold_truth_answer": "Wave"
+    },
+    "bb_196": {
+        "generated_answer": "Leonardo Fibonacci",
+        "gold_truth_answer": "Fibonacci"
+    },
+    "qw_7670": {
+        "generated_answer": "Carmen",
+        "gold_truth_answer": "Carmen"
+    },
+    "qw_12459": {
+        "generated_answer": "Fiji",
+        "gold_truth_answer": "Fiji"
+    },
+    "qw_16727": {
+        "generated_answer": "Liao",
+        "gold_truth_answer": "Liao"
+    },
+    "qw_6561": {
+        "generated_answer": "England",
+        "gold_truth_answer": "England"
+    },
+    "bb_3265": {
+        "generated_answer": "Lion, Elephant, Buffalo, Leopard, Rhinoceros",
+        "gold_truth_answer": "Elephant, Rhinoceros, Lion, Leopard, Buffalo"
+    },
+    "bb_3795": {
+        "generated_answer": "Pinctada",
+        "gold_truth_answer": "Homo Sapiens"
+    },
+    "tb_29": {
+        "generated_answer": "Stonehenge",
+        "gold_truth_answer": "Stonehenge"
+    },
+    "odql_8275": {
+        "generated_answer": "Peter Purves",
+        "gold_truth_answer": "PETER PURVES"
+    },
+    "qb_8767": {
+        "generated_answer": "Greg Davies",
+        "gold_truth_answer": "Greg Davies"
+    },
+    "odql_9944": {
+        "generated_answer": "Astana",
+        "gold_truth_answer": "ISLAMABAD"
+    },
+    "odql_10142": {
+        "generated_answer": "There is no evidence or information provided in the given search results that suggests Scotland beat Argentina 21-19 in a rugby union international in June played in C\u00f3rdoba in a stadium named after a footballer who won the Golden Boot in the 1978 FIFA World Cup.",
+        "gold_truth_answer": "MARIO KEMPES"
+    },
+    "odql_11533": {
+        "generated_answer": "maxwell",
+        "gold_truth_answer": "MAXWELL"
+    },
+    "qw_4300": {
+        "generated_answer": "\"Sesame Street\"",
+        "gold_truth_answer": "\"Michael Jackson's \"\"Thriller\"\"\""
+    },
+    "qw_13543": {
+        "generated_answer": "House M.D.",
+        "gold_truth_answer": "Actor Kevin Spacey"
+    },
+    "qg_327": {
+        "generated_answer": "The U.S. Marshals Service",
+        "gold_truth_answer": "US Marshals Service"
+    },
+    "tb_2199": {
+        "generated_answer": "Chicago Cubs",
+        "gold_truth_answer": "Chicago Cubs"
+    },
+    "qw_1933": {
+        "generated_answer": "The Quatermass Experiment was transmitted in the summer of 1953 by BBC Television.",
+        "gold_truth_answer": "The Quatermass Experiment"
+    },
+    "qw_11025": {
+        "generated_answer": "in the attic.",
+        "gold_truth_answer": "In The Attic"
+    },
+    "qw_5775": {
+        "generated_answer": "Aleister Crowley",
+        "gold_truth_answer": "Aleister Crowley"
+    },
+    "bb_3969": {
+        "generated_answer": "Naadam",
+        "gold_truth_answer": "Gymkhana"
+    },
+    "qw_4450": {
+        "generated_answer": "Wat",
+        "gold_truth_answer": "Wat Tyler"
+    },
+    "sfq_16069": {
+        "generated_answer": "Folic acid",
+        "gold_truth_answer": "Folic Acid"
+    },
+    "qg_1057": {
+        "generated_answer": "Arthur C. Clarke",
+        "gold_truth_answer": "Arthur C. Clarke"
+    },
+    "qw_11567": {
+        "generated_answer": "Blue Peter",
+        "gold_truth_answer": "The Goodies"
+    },
+    "sfq_4716": {
+        "generated_answer": "Nathuram Godse",
+        "gold_truth_answer": "Nathuram Godse"
+    },
+    "bb_1376": {
+        "generated_answer": "365.2422",
+        "gold_truth_answer": "365 days and 6 hours"
+    },
+    "bb_2661": {
+        "generated_answer": "Pearson",
+        "gold_truth_answer": "Pearson plc"
+    },
+    "qw_15805": {
+        "generated_answer": "The United States.",
+        "gold_truth_answer": "Australia"
+    },
+    "wh_2069": {
+        "generated_answer": "Hermann Jacobi",
+        "gold_truth_answer": "GAUSS"
+    },
+    "bb_4169": {
+        "generated_answer": "50",
+        "gold_truth_answer": "One-Two"
+    },
+    "bb_1967": {
+        "generated_answer": "Ingvar Kamprad.",
+        "gold_truth_answer": "George Soros"
+    },
+    "bb_4921": {
+        "generated_answer": "\"Ahoy\"",
+        "gold_truth_answer": "Ahoy"
+    },
+    "qw_15117": {
+        "generated_answer": "There is no information in the provided search results that mentions the 11th and 12th century ruler of Georgia, celebrated by Georgians as their most successful, leading them out from Turkish domination, reuniting the country, and subsequently being canonised by the Georgian Orthodox Church.",
+        "gold_truth_answer": "David IV"
+    },
+    "odql_13834": {
+        "generated_answer": "Bertrand Russell",
+        "gold_truth_answer": "BERTRAND RUSSELL"
+    },
+    "odql_6161": {
+        "generated_answer": "Honda",
+        "gold_truth_answer": "HONDA"
+    },
+    "bb_4768": {
+        "generated_answer": "The Ballon d'Or",
+        "gold_truth_answer": "European Footballer of the Year"
+    },
+    "tb_1491": {
+        "generated_answer": "Spheniscus",
+        "gold_truth_answer": "Firebird"
+    },
+    "qg_3109": {
+        "generated_answer": "Driver",
+        "gold_truth_answer": "Tweeter"
+    },
+    "sfq_481": {
+        "generated_answer": "None",
+        "gold_truth_answer": "Mo (Marjorie) Mowlam"
+    },
+    "qw_15427": {
+        "generated_answer": "None.",
+        "gold_truth_answer": "Bobby Sands"
+    }
+}

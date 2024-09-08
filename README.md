@@ -22,7 +22,7 @@ List of required packages can be found in `requirements.txt`
 
 1. Clone the repository.
 2. Install the required packages: `pip install -r requirements.txt`.
-3. To run the evaluation on HotpotQA, use hotpot_evaluation.ipynb, and replace the filepaths in the indicated cells with yours for the following variables: (all files, for both HotpotQA and TriviaQA, can be found in a Google Drive folder linked here: https://drive.google.com/drive/folders/1libLcirWGIarxHtCYRQt9NpgOViZ9Gfw?usp=sharing)
+3. To run the evaluation on HotpotQA, use hotpot_evaluation_final.ipynb, and replace the filepaths in the indicated cells with yours for the following variables: (all files, for both HotpotQA and TriviaQA, can be found in a Google Drive folder linked here: https://drive.google.com/drive/folders/1libLcirWGIarxHtCYRQt9NpgOViZ9Gfw?usp=sharing)
       - `data_path` = hotpotqa
       - `corpus_embeddings_path` = ./hotpot_corpus_embeddings.npy
       - `corpus_ids_path ` = ./hotpot_corpus_ids.npy
@@ -30,7 +30,7 @@ List of required packages can be found in `requirements.txt`
       - `classifier_model_path` = ./classifier_model_confidence.pkl
       - `full_wiki_path` = ./hotpot_dev_fullwiki_v1.json
       - `hotpot_prompt_path` = ./hotpotqa_prompt.txt
-4. To run the evaluation on TriviaQA, use triviaqa_evaluation.ipynb and replace the filepaths in the indicated cell with yours for the following variables:
+4. To run the evaluation on TriviaQA, use triviaqa_evaluation_final.ipynb and replace the filepaths in the indicated cell with yours for the following variables:
       - `trivia_corpus_path` = ./triviacorpus.pkl
       - `trivia_queries_path` = ./triviaqueries.pkl
       - `trivia_qrels_path` = ./triviaqrels.pkl
